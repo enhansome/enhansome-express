@@ -14,7 +14,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23529
+            "stars": 23528
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-05T14:00:08Z",
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12083
+            "stars": 12082
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-02T16:29:10Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8195
+            "stars": 8196
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-02T16:29:10Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8195
+            "stars": 8196
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-05T08:41:25Z",
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6360
+            "stars": 6359
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T16:20:14Z",
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500
+            "stars": 5501
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-14T16:20:14Z",
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500
+            "stars": 5501
           }
         },
         {
@@ -581,7 +581,7 @@
             "last_commit": "2022-04-19T23:34:20Z",
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2362
+            "stars": 2361
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2023-04-26T10:06:31Z",
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15388
+            "stars": 15387
           }
         },
         {
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:52:55.781Z",
+    "last_updated": "2026-08-16T23:52:27.601Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
     "enhanced_repository": "enhansome/enhansome-express",
