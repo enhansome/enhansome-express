@@ -14,7 +14,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23528
+            "stars": 23529
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-05T08:41:25Z",
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6359
+            "stars": 6358
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-06-02T20:00:40Z",
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6189
+            "stars": 6190
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2026-06-25T15:22:02Z",
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4515
+            "stars": 4514
           }
         },
         {
@@ -581,7 +581,7 @@
             "last_commit": "2022-04-19T23:34:20Z",
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2361
+            "stars": 2360
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2023-04-26T10:06:31Z",
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15387
+            "stars": 15385
           }
         },
         {
@@ -839,7 +839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:52:27.601Z",
+    "last_updated": "2026-08-17T23:54:57.606Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
     "enhanced_repository": "enhansome/enhansome-express",
