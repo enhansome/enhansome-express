@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,377 | 🐛 229 | 🌐 JavaScript | 📅 2026-08-01 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,381 | 🐛 229 | 🌐 JavaScript | 📅 2026-08-01 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,38 +27,38 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,529 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,082 | 🐛 292 | 🌐 JavaScript | 📅 2026-08-05 - 官方推荐的文件上传中间件。
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,717 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,528 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,081 | 🐛 291 | 🌐 JavaScript | 📅 2026-08-05 - 官方推荐的文件上传中间件。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,718 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,717 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,196 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-02 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,196 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-02 - 先前为 logger。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,718 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-02 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-02 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,358 | 🐛 97 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.session。
-* [cors](https://github.com/expressjs/cors) ⭐ 6,190 | 🐛 53 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
+* [cors](https://github.com/expressjs/cors) ⭐ 6,189 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,501 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-14 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,501 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-14 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-14 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-14 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
   * [raw-body](https://github.com/stream-utils/raw-body) ⭐ 409 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-12
   * [co-body](https://github.com/visionmedia/co-body) ⭐ 325 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 121 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
 * [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,514 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
-* [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-05 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
-* [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-05 - 压缩和处理静态内容。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。
 * [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,028 | 🐛 32 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.cookieParser。
 * [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,422 | 🐛 26 | 🌐 JavaScript | 📅 2026-01-03 - 用于提供静态内容的模块。
 * [express-http-proxy](https://github.com/villadora/express-http-proxy) ⭐ 1,252 | 🐛 146 | 🌐 JavaScript | 📅 2026-02-14 - 解决跨域问题。
 * [cookie-session](https://github.com/expressjs/cookie-session) ⭐ 1,149 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.cookieSession。
 * [vhost](https://github.com/expressjs/vhost) ⭐ 766 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-09 - 先前为 express.vhost。
-* [method-override](https://github.com/expressjs/method-override) ⭐ 627 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-01 - 先前为 express.methodOverride。
-* [serve-favicon](https://github.com/expressjs/serve-favicon) ⭐ 627 | 🐛 9 | 🌐 JavaScript | 📅 2026-02-01 - 先前为 express.favicon。
+* [method-override](https://github.com/expressjs/method-override) ⭐ 627 | 🐛 11 | 🌐 JavaScript | 📅 2026-03-01 - 先前为 express.methodOverride。
+* [serve-favicon](https://github.com/expressjs/serve-favicon) ⭐ 627 | 🐛 8 | 🌐 JavaScript | 📅 2026-02-01 - 先前为 express.favicon。
 * [response-time](https://github.com/expressjs/response-time) ⭐ 496 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.responseTime。
-* [serve-index](https://github.com/expressjs/serve-index) ⭐ 447 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.directory。
-* [errorhandler](https://github.com/expressjs/errorhandler) ⭐ 425 | 🐛 7 | 🌐 JavaScript | 📅 2026-06-01 - 先前为 express.errorHandler。
+* [serve-index](https://github.com/expressjs/serve-index) ⭐ 447 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.directory。
+* [errorhandler](https://github.com/expressjs/errorhandler) ⭐ 425 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-01 - 先前为 express.errorHandler。
 * <del>[connect-multiparty](https://github.com/expressjs/connect-multiparty) ⚠️ Archived</del> - 官方的文件上传中间件(不推荐使用)
 * [express-stormpath](https://github.com/stormpath/stormpath-express) ⚠️ Archived - 实现用户存储、认证、授权、SSO 和数据安全性的 Express 中间件模块。
-* [connect-timeout](https://github.com/expressjs/timeout) ⭐ 321 | 🐛 19 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.timeout。
+* [connect-timeout](https://github.com/expressjs/timeout) ⭐ 321 | 🐛 18 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.timeout。
 * [express-debug](https://github.com/devoidfury/express-debug) ⭐ 198 | 🐛 14 | 🌐 JavaScript | 📅 2021-04-23 - 不引人注目的开发工具，用于向应用程序添加一个选项卡，其中包含有关模板变量（本地）、当前会话、有用请求数据等方面的信息。
 * [express-slash](https://github.com/ericf/express-slash) ⭐ 153 | 🐛 6 | 🌐 JavaScript | 📅 2014-07-09 - Express 中间件模块，适用于对末尾斜杠有很严格要求的人员。
 * [sriracha-admin](https://github.com/hdngr/siracha) ⭐ 150 | 🐛 13 | 🌐 JavaScript | 📅 2016-07-24 - Express 中间件模块，为 Mongoose 动态生成管理站点。
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
