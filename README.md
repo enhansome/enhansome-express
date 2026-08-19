@@ -29,11 +29,11 @@
 
 * [passport](https://github.com/jaredhanson/passport) ⭐ 23,528 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
 * [Multer](https://github.com/expressjs/multer) ⭐ 12,081 | 🐛 291 | 🌐 JavaScript | 📅 2026-08-05 - 官方推荐的文件上传中间件。
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,718 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,719 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,718 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-02 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-02 - 先前为 logger。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,719 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 48 | 🌐 JavaScript | 📅 2026-08-02 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 48 | 🌐 JavaScript | 📅 2026-08-02 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,358 | 🐛 97 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.session。
 * [cors](https://github.com/expressjs/cors) ⭐ 6,189 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
@@ -42,7 +42,7 @@
   * [raw-body](https://github.com/stream-utils/raw-body) ⭐ 409 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-12
   * [co-body](https://github.com/visionmedia/co-body) ⭐ 325 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 121 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
-* [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,514 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
+* [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,515 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
 * [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
 * [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。

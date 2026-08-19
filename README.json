@@ -45,7 +45,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10718
+            "stars": 10719
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10718
+            "stars": 10719
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-06-25T15:22:02Z",
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4514
+            "stars": 4515
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:38.599Z",
+    "last_updated": "2026-08-19T23:54:42.645Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
