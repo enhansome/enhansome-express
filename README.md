@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,381 | 🐛 229 | 🌐 JavaScript | 📅 2026-08-01 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,382 | 🐛 229 | 🌐 JavaScript | 📅 2026-08-01 - Express GitHub仓库
 
 ## 中文文档
 
@@ -32,8 +32,8 @@
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,718 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,718 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-02 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-02 - 先前为 logger。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-02 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,198 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-02 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,358 | 🐛 97 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.session。
 * [cors](https://github.com/expressjs/cors) ⭐ 6,189 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
@@ -131,7 +131,7 @@
 * [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views) ⚠️ Archived
 * [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express) ⭐ 412 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-15
 * [使用 Nodejs (Express) 编写的团体订餐程序](https://github.com/willerce/canku) ⭐ 353 | 🐛 2 | 🌐 JavaScript | 📅 2014-03-14
-* [Express搭建微信公共账号服务](https://github.com/node-weixin/node-weixin-express) ⭐ 268 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-26
+* [Express搭建微信公共账号服务](https://github.com/node-weixin/node-weixin-express) ⭐ 267 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-26
 * [简单的 Vue2 + Webpack2 + Express + 热更新工程模板](https://github.com/hilongjw/vue-express-hot-simple) ⭐ 227 | 🐛 6 | 🌐 JavaScript | 📅 2017-06-25
 * [简单的 Vue2 + Webpack2  + Express + 热更新工程模板](https://github.com/hilongjw/vue-ssr-hmr-template) ⭐ 227 | 🐛 6 | 🌐 JavaScript | 📅 2017-06-25
 * [Express 4.x + MongoDB 实现CRUD](https://github.com/liuxuanqiang/Express_MongoDb_Demo) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2016-09-28
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
