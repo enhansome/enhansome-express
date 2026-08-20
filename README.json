@@ -72,7 +72,7 @@
             "archived": false,
             "id": 16650937,
             "language": "JavaScript",
-            "last_commit": "2026-08-02T16:29:10Z",
+            "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8198
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 16650937,
             "language": "JavaScript",
-            "last_commit": "2026-08-02T16:29:10Z",
+            "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8198
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-02T20:00:40Z",
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6189
+            "stars": 6190
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-06-25T15:22:02Z",
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4515
+            "stars": 4514
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2805
+            "stars": 2804
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2805
+            "stars": 2804
           }
         },
         {
@@ -703,7 +703,7 @@
             "last_commit": "2023-04-26T10:06:31Z",
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15385
+            "stars": 15383
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2017-04-15T11:06:00Z",
             "owner": "hutuxuhui",
             "repo": "jackblog-api-express",
-            "stars": 412
+            "stars": 411
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:54:42.645Z",
+    "last_updated": "2026-08-20T23:56:01.665Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
