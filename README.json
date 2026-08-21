@@ -15,7 +15,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23528
+            "stars": 23530
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T14:00:08Z",
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12081
+            "stars": 12082
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10719
+            "stars": 10720
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10719
+            "stars": 10720
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8198
+            "stars": 8200
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8198
+            "stars": 8200
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-05T08:41:25Z",
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6358
+            "stars": 6360
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-02T20:00:40Z",
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6190
+            "stars": 6191
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2804
+            "stars": 2805
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2804
+            "stars": 2805
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2023-04-26T15:09:21Z",
             "owner": "petecoop",
             "repo": "generator-express",
-            "stars": 810
+            "stars": 809
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:56:01.665Z",
+    "last_updated": "2026-08-21T23:55:35.855Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
