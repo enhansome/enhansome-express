@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,389 | 🐛 224 | 🌐 JavaScript | 📅 2026-08-22 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,391 | 🐛 224 | 🌐 JavaScript | 📅 2026-08-22 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,15 +27,15 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,530 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,531 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
 * [Multer](https://github.com/expressjs/multer) ⭐ 12,082 | 🐛 291 | 🌐 JavaScript | 📅 2026-08-05 - 官方推荐的文件上传中间件。
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,724 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,725 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,724 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,725 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
 * [morgan](https://github.com/expressjs/morgan) ⭐ 8,199 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-20 - HTTP请求日志中间件。
 * [morgan](https://github.com/expressjs/morgan) ⭐ 8,199 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-20 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,359 | 🐛 97 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.session。
-* [cors](https://github.com/expressjs/cors) ⭐ 6,191 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
+* [cors](https://github.com/expressjs/cors) ⭐ 6,192 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,499 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-22 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,499 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-22 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
@@ -43,8 +43,8 @@
   * [co-body](https://github.com/visionmedia/co-body) ⭐ 325 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 121 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
 * [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,513 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
-* [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
-* [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 压缩和处理静态内容。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,807 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,807 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-05 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。
 * [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,028 | 🐛 32 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.cookieParser。
 * [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,422 | 🐛 26 | 🌐 JavaScript | 📅 2026-01-03 - 用于提供静态内容的模块。
@@ -92,7 +92,7 @@
 * [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 * [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 * [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
-* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,868 | 🐛 11 | 🌐 Ruby | 📅 2023-08-22
+* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,867 | 🐛 11 | 🌐 Ruby | 📅 2023-08-22
 * [Express结合Passport实现登陆认证](http://blog.fens.me/nodejs-express-passport/)
 * [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
 * [webpack+vue+vux+express+lowdb实践](https://segmentfault.com/a/1190000006998791)
@@ -126,7 +126,7 @@
 
 *Express的Demo例子搜集*
 
-* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,382 | 🐛 32 | 🌐 JavaScript | 📅 2023-04-26
+* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,381 | 🐛 32 | 🌐 JavaScript | 📅 2023-04-26
 * [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo) ⭐ 5,098 | 🐛 15 | 🌐 JavaScript | 📅 2025-10-30
 * [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views) ⚠️ Archived
 * [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express) ⭐ 411 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-15
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
