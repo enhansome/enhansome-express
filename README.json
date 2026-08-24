@@ -27,7 +27,7 @@
             "archived": false,
             "id": 16386099,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T14:00:08Z",
+            "last_commit": "2026-08-24T16:46:00Z",
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12083
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8199
+            "stars": 8200
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8199
+            "stars": 8200
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-02T20:00:40Z",
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6192
+            "stars": 6191
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:03.460Z",
+    "last_updated": "2026-08-24T23:53:59.798Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
