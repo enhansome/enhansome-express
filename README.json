@@ -15,7 +15,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23531
+            "stars": 23532
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-05T14:00:08Z",
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12082
+            "stars": 12083
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10725
+            "stars": 10728
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10725
+            "stars": 10728
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-22T20:08:59Z",
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5499
+            "stars": 5500
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-22T20:08:59Z",
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5499
+            "stars": 5500
           }
         },
         {
@@ -703,7 +703,7 @@
             "last_commit": "2023-04-26T10:06:31Z",
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15381
+            "stars": 15382
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:53:48.568Z",
+    "last_updated": "2026-08-24T14:28:03.460Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
