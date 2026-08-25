@@ -15,7 +15,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23532
+            "stars": 23533
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T16:46:00Z",
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12083
+            "stars": 12084
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8200
+            "stars": 8201
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T15:32:00Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8200
+            "stars": 8201
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:53:59.798Z",
+    "last_updated": "2026-08-25T06:20:32.279Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
