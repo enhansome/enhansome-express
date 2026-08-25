@@ -15,7 +15,7 @@
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23533
+            "stars": 23534
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 16386099,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T16:46:00Z",
+            "last_commit": "2026-08-25T11:52:43Z",
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12084
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-05T08:41:25Z",
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6359
+            "stars": 6358
           }
         },
         {
@@ -703,7 +703,7 @@
             "last_commit": "2023-04-26T10:06:31Z",
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15382
+            "stars": 15381
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2017-04-15T11:06:00Z",
             "owner": "hutuxuhui",
             "repo": "jackblog-api-express",
-            "stars": 411
+            "stars": 410
           }
         },
         {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:32.279Z",
+    "last_updated": "2026-08-25T23:55:37.414Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
