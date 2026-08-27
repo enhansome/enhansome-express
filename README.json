@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T11:52:43Z",
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12084
+            "stars": 12085
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-26T16:16:29Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8201
+            "stars": 8202
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-26T16:16:29Z",
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8201
+            "stars": 8202
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-05T08:41:25Z",
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6358
+            "stars": 6360
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-02T20:00:40Z",
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6191
+            "stars": 6192
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-22T20:08:59Z",
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500
+            "stars": 5501
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-22T20:08:59Z",
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500
+            "stars": 5501
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2807
+            "stars": 2808
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2807
+            "stars": 2808
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2025-05-14T13:34:34Z",
             "owner": "expressjs",
             "repo": "csurf",
-            "stars": 2307
+            "stars": 2308
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2026-06-03T01:07:15Z",
             "owner": "expressjs",
             "repo": "cookie-parser",
-            "stars": 2028
+            "stars": 2029
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-01-03T18:08:02Z",
             "owner": "expressjs",
             "repo": "serve-static",
-            "stars": 1422
+            "stars": 1423
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-08-05T13:59:19Z",
             "owner": "expressjs",
             "repo": "cookie-session",
-            "stars": 1148
+            "stars": 1149
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-08-09T09:45:27Z",
             "owner": "expressjs",
             "repo": "vhost",
-            "stars": 766
+            "stars": 767
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-03-01T11:27:08Z",
             "owner": "expressjs",
             "repo": "method-override",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-02-01T09:29:05Z",
             "owner": "expressjs",
             "repo": "serve-favicon",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-06-03T02:19:56Z",
             "owner": "expressjs",
             "repo": "response-time",
-            "stars": 496
+            "stars": 497
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-05T14:00:57Z",
             "owner": "expressjs",
             "repo": "serve-index",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2026-06-01T04:59:02Z",
             "owner": "expressjs",
             "repo": "errorhandler",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -421,7 +421,22 @@
             "last_commit": "2025-05-14T13:29:41Z",
             "owner": "expressjs",
             "repo": "connect-multiparty",
-            "stars": 348
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connect-timeout",
+          "description": "先前为 express.timeout。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17359642,
+            "language": "JavaScript",
+            "last_commit": "2026-06-03T01:07:15Z",
+            "owner": "expressjs",
+            "repo": "timeout",
+            "stars": 322
           }
         },
         {
@@ -437,21 +452,6 @@
             "owner": "stormpath",
             "repo": "express-stormpath",
             "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "connect-timeout",
-          "description": "先前为 express.timeout。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 17359642,
-            "language": "JavaScript",
-            "last_commit": "2026-06-03T01:07:15Z",
-            "owner": "expressjs",
-            "repo": "timeout",
-            "stars": 321
           }
         },
         {
@@ -637,7 +637,7 @@
             "last_commit": "2026-03-02T12:15:52Z",
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1853
+            "stars": 1854
           }
         },
         {
@@ -891,9 +891,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:59:51.921Z",
-    "original_repository": "wabg/awesome-express",
-    "original_repository_id": 71524240,
+    "last_updated": "2026-08-27T11:36:55.760Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71524240,
+      "language": null,
+      "last_commit": "2024-03-05T07:19:46Z",
+      "owner": "wabg",
+      "repo": "awesome-express",
+      "stars": 280
+    },
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
     "enhanced_repository": "enhansome/enhansome-express",
     "enhanced_repository_description": null,
