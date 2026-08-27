@@ -45,7 +45,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10728
+            "stars": 10729
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10728
+            "stars": 10729
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 16650937,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T15:32:00Z",
+            "last_commit": "2026-08-26T16:16:29Z",
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8201
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 16650937,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T15:32:00Z",
+            "last_commit": "2026-08-26T16:16:29Z",
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8201
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:55:37.414Z",
+    "last_updated": "2026-08-27T04:59:51.921Z",
     "original_repository": "wabg/awesome-express",
     "original_repository_id": 71524240,
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
