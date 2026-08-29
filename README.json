@@ -46,7 +46,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T20:25:39Z",
-            "open_issues": 236,
+            "open_issues": 237,
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12085,
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:47.172Z",
+    "last_updated": "2026-08-29T05:13:57.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
