@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, unobtrusive authentication for Node.js.",
+            "homepage": "https://www.passportjs.org?utm_source=github&utm_medium=referral&utm_campaign=passport&utm_content=about",
             "id": 2540368,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-16T21:56:14Z",
+            "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23533
+            "stars": 23533,
+            "topics": [
+              "express",
+              "nodejs",
+              "oauth",
+              "oauth2",
+              "openid",
+              "openid-connect",
+              "passport",
+              "saml"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js middleware for handling `multipart/form-data`.",
+            "homepage": "https://www.npmjs.com/package/multer",
             "id": 16386099,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T11:52:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:25:39Z",
+            "open_issues": 236,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12085
+            "stars": 12085,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -42,12 +61,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Help secure Express apps with various HTTP headers",
+            "homepage": "https://helmet.js.org/",
             "id": 3329923,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:02:40Z",
+            "open_issues": 8,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10729
+            "stars": 10729,
+            "topics": [
+              "helmet",
+              "http-headers",
+              "javascript",
+              "middleware",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -58,12 +88,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Help secure Express apps with various HTTP headers",
+            "homepage": "https://helmet.js.org/",
             "id": 3329923,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:02:40Z",
+            "open_issues": 8,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10729
+            "stars": 10729,
+            "topics": [
+              "helmet",
+              "http-headers",
+              "javascript",
+              "middleware",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -74,12 +115,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP request logger middleware for node.js",
+            "homepage": null,
             "id": 16650937,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:30:03Z",
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8203
+            "stars": 8203,
+            "topics": [
+              "express",
+              "javascript",
+              "logger",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -90,12 +141,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP request logger middleware for node.js",
+            "homepage": null,
             "id": 16650937,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:30:03Z",
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8203
+            "stars": 8203,
+            "topics": [
+              "express",
+              "javascript",
+              "logger",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -106,12 +167,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple session middleware for Express",
+            "homepage": null,
             "id": 16875250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:41:25Z",
+            "open_issues": 97,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6360
+            "stars": 6360,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "session"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -122,12 +194,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js CORS middleware",
+            "homepage": null,
             "id": 7929498,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-02T20:00:40Z",
+            "open_issues": 51,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6192
+            "stars": 6191,
+            "topics": [
+              "cors",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -138,12 +221,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js body parsing middleware",
+            "homepage": null,
             "id": 15669006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:08:59Z",
+            "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5501
+            "stars": 5501,
+            "topics": [
+              "body",
+              "expressjs",
+              "javascript",
+              "json",
+              "middleware",
+              "nodejs",
+              "parser",
+              "urlencoded"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -159,12 +256,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get and validate the raw body of a readable stream",
+                "homepage": null,
                 "id": 12823654,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T03:56:58Z",
+                "open_issues": 9,
                 "owner": "stream-utils",
                 "repo": "raw-body",
-                "stars": 409
+                "stars": 409,
+                "topics": [
+                  "body",
+                  "bun",
+                  "deno",
+                  "http",
+                  "javascript",
+                  "nodejs",
+                  "parser",
+                  "stream",
+                  "webstreams"
+                ]
               },
               "first_seen": "2026-08-28T07:03:52.758Z"
             },
@@ -175,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse request bodies with co",
+                "homepage": null,
                 "id": 14769896,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-05T07:59:32Z",
+                "open_issues": 10,
                 "owner": "cojs",
                 "repo": "co-body",
-                "stars": 325
+                "stars": 325,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:52.758Z"
             },
@@ -191,24 +308,43 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Body parsing",
+                "homepage": null,
                 "id": 5060340,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-27T12:09:46Z",
+                "open_issues": 8,
                 "owner": "Raynos",
                 "repo": "body",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:52.758Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Node.js body parsing middleware",
+            "homepage": null,
             "id": 15669006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:08:59Z",
+            "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5501
+            "stars": 5501,
+            "topics": [
+              "body",
+              "expressjs",
+              "javascript",
+              "json",
+              "middleware",
+              "nodejs",
+              "parser",
+              "urlencoded"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -219,12 +355,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes",
+            "homepage": null,
             "id": 13783958,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T15:22:02Z",
+            "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4513
+            "stars": 4513,
+            "topics": [
+              "express-jwt",
+              "jwt"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -235,12 +379,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js compression middleware",
+            "homepage": null,
             "id": 15571957,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:38:37Z",
+            "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2808
+            "stars": 2808,
+            "topics": [
+              "compression",
+              "deflate",
+              "expressjs",
+              "gzip",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -251,12 +408,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js compression middleware",
+            "homepage": null,
             "id": 15571957,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:38:37Z",
+            "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2808
+            "stars": 2808,
+            "topics": [
+              "compression",
+              "deflate",
+              "expressjs",
+              "gzip",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -267,12 +437,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CSRF token middleware",
+            "homepage": null,
             "id": 17430647,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-14T13:34:34Z",
+            "open_issues": 0,
             "owner": "expressjs",
             "repo": "csurf",
-            "stars": 2308
+            "stars": 2308,
+            "topics": [
+              "csrf",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -283,12 +464,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse HTTP request cookies",
+            "homepage": null,
             "id": 16866357,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T01:07:15Z",
+            "open_issues": 32,
             "owner": "expressjs",
             "repo": "cookie-parser",
-            "stars": 2029
+            "stars": 2029,
+            "topics": [
+              "cookie",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -299,12 +491,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve static files",
+            "homepage": null,
             "id": 17464338,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-03T18:08:02Z",
+            "open_issues": 26,
             "owner": "expressjs",
             "repo": "serve-static",
-            "stars": 1423
+            "stars": 1423,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "send",
+              "serve-files"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -315,12 +519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxy middleware for express/connect",
+            "homepage": null,
             "id": 20251698,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T03:48:52Z",
+            "open_issues": 146,
             "owner": "villadora",
             "repo": "express-http-proxy",
-            "stars": 1252
+            "stars": 1252,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -331,12 +540,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple cookie-based session middleware",
+            "homepage": null,
             "id": 17106306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T13:59:19Z",
+            "open_issues": 16,
             "owner": "expressjs",
             "repo": "cookie-session",
-            "stars": 1149
+            "stars": 1149,
+            "topics": [
+              "cookie",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "session"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -347,12 +568,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "virtual domain hosting",
+            "homepage": null,
             "id": 17430308,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T09:45:27Z",
+            "open_issues": 4,
             "owner": "expressjs",
             "repo": "vhost",
-            "stars": 767
+            "stars": 767,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "vhost"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -363,12 +595,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Override HTTP verbs.",
+            "homepage": null,
             "id": 17359182,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-01T11:27:08Z",
+            "open_issues": 12,
             "owner": "expressjs",
             "repo": "method-override",
-            "stars": 628
+            "stars": 628,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "method-override",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -379,12 +622,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "favicon serving middleware",
+            "homepage": "https://www.npmjs.com/package/serve-favicon",
             "id": 16514286,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-01T09:29:05Z",
+            "open_issues": 8,
             "owner": "expressjs",
             "repo": "serve-favicon",
-            "stars": 628
+            "stars": 628,
+            "topics": [
+              "expressjs",
+              "favicon",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -395,12 +649,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Response time header for node.js",
+            "homepage": null,
             "id": 16650307,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T02:19:56Z",
+            "open_issues": 8,
             "owner": "expressjs",
             "repo": "response-time",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "javascript",
+              "middleware",
+              "nodejs",
+              "response-time"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -411,12 +675,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve directory listings",
+            "homepage": null,
             "id": 17459063,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T14:00:57Z",
+            "open_issues": 37,
             "owner": "expressjs",
             "repo": "serve-index",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "directory",
+              "expressjs",
+              "index",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -427,12 +703,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development-only error handler middleware",
+            "homepage": null,
             "id": 17359035,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-01T04:59:02Z",
+            "open_issues": 6,
             "owner": "expressjs",
             "repo": "errorhandler",
-            "stars": 426
+            "stars": 426,
+            "topics": [
+              "error",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -443,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "connect middleware for multiparty",
+            "homepage": null,
             "id": 9330679,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-14T13:29:41Z",
+            "open_issues": 0,
             "owner": "expressjs",
             "repo": "connect-multiparty",
-            "stars": 349
+            "stars": 349,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -459,12 +750,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Request timeout middleware for Connect/Express",
+            "homepage": null,
             "id": 17359642,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T01:07:15Z",
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "timeout",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "javascript",
+              "middleware",
+              "nodejs",
+              "timeout"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -475,12 +776,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build simple, secure web applications with Stormpath and Express!",
+            "homepage": "http://docs.stormpath.com/nodejs/express/",
             "id": 21433270,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-12-05T21:21:58Z",
+            "open_issues": 119,
             "owner": "stormpath",
             "repo": "express-stormpath",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "authentication",
+              "express",
+              "login",
+              "nodejs",
+              "oauth",
+              "stormpath",
+              "user-manager"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -491,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debug toolbar middleware for developing applications in express (node.js)",
+            "homepage": null,
             "id": 9587006,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-23T20:02:21Z",
+            "open_issues": 14,
             "owner": "devoidfury",
             "repo": "express-debug",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -507,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Express middleware for people who are anal about trailing slashes.",
+            "homepage": null,
             "id": 8679006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-07-09T05:57:40Z",
+            "open_issues": 6,
             "owner": "ericf",
             "repo": "express-slash",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -523,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A super spicy admin backend for Express and Mongoose.",
+            "homepage": null,
             "id": 44585925,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-07-24T04:36:39Z",
+            "open_issues": 13,
             "owner": "hdngr",
             "repo": "sriracha",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -539,12 +868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Express middleware for filtering-out parts of JSON responses based on the `fields` query-string; à la Google API's Partial Response.",
+            "homepage": null,
             "id": 11415517,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-07-07T10:14:20Z",
+            "open_issues": 4,
             "owner": "nemtsov",
             "repo": "express-partial-response",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -555,12 +889,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "join files on a fly to reduce requests count",
+            "homepage": null,
             "id": 22952614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-25T18:34:17Z",
+            "open_issues": 0,
             "owner": "coderaiser",
             "repo": "join-io",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "cloudcmd",
+              "express",
+              "express-middleware",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -571,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "expressjs view helper methods",
+            "homepage": null,
             "id": 8574168,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-13T14:21:52Z",
+            "open_issues": 6,
             "owner": "madhums",
             "repo": "node-view-helpers",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -587,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect/express middleware for optimal image serving with node.js. Switches to webp/jpegxr if possible",
+            "homepage": null,
             "id": 15639331,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-10-21T08:09:27Z",
+            "open_issues": 0,
             "owner": "msemenistyi",
             "repo": "connect-image-optimus",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -603,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Node.js module for Express that makes using a CDN for your static assets a breeze.",
+            "homepage": null,
             "id": 7088971,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-11-16T20:30:12Z",
+            "open_issues": 1,
             "owner": "tacomilkshake",
             "repo": "express-simple-cdn",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -619,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect middleware for static files that sets caching response headers as well as generates and rewrites fingerprinted urls.",
+            "homepage": null,
             "id": 8569126,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-27T19:04:44Z",
+            "open_issues": 5,
             "owner": "paulwalker",
             "repo": "connect-static-expiry",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -635,12 +1000,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Express middleware module that will redirect user HTTP requests that contain uppercase letters, to the same URL in lowercase form.",
+            "homepage": null,
             "id": 7022555,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-14T19:15:56Z",
+            "open_issues": 4,
             "owner": "tacomilkshake",
             "repo": "express-uncapitalize",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         }
@@ -657,12 +1027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Light Weight Image Processor for NodeJS",
+            "homepage": null,
             "id": 21306213,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-04-19T23:34:20Z",
+            "open_issues": 124,
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2360
+            "stars": 2360,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -673,12 +1048,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Express' application generator",
+            "homepage": null,
             "id": 14570945,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-02T12:15:52Z",
+            "open_issues": 77,
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1854
+            "stars": 1853,
+            "topics": [
+              "express",
+              "generator",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -689,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs",
+            "homepage": "https://npmjs.org/package/images",
             "id": 8391910,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-04-29T02:02:06Z",
+            "open_issues": 59,
             "owner": "zhangyuanwei",
             "repo": "node-images",
-            "stars": 1554
+            "stars": 1554,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -705,12 +1095,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An express generator for Yeoman, based on the express command line tool.",
+            "homepage": null,
             "id": 9584757,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-26T15:09:21Z",
+            "open_issues": 17,
             "owner": "petecoop",
             "repo": "generator-express",
-            "stars": 809
+            "stars": 809,
+            "topics": [
+              "express",
+              "nodejs",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -721,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Express.js from the author of one of the best books on Express.js—Pro Express.js— with this workshop that will teach you basics of Express.js.",
+            "homepage": null,
             "id": 13843615,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-21T07:30:04Z",
+            "open_issues": 18,
             "owner": "azat-co",
             "repo": "expressworks",
-            "stars": 735
+            "stars": 735,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         }
@@ -743,12 +1147,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《一起学 Node.js》",
+            "homepage": null,
             "id": 10309334,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-26T10:06:31Z",
+            "open_issues": 33,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15381
+            "stars": 15380,
+            "topics": [
+              "blog",
+              "course",
+              "express",
+              "javascript",
+              "mongodb",
+              "mongolass",
+              "nodejs",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -759,12 +1177,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple demo app using node and mongodb for beginners (with docker)",
+            "homepage": null,
             "id": 1442637,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-30T22:05:34Z",
+            "open_issues": 15,
             "owner": "madhums",
             "repo": "node-express-mongoose-demo",
-            "stars": 5098
+            "stars": 5098,
+            "topics": [
+              "demo",
+              "docker",
+              "express",
+              "mongodb",
+              "mongoose",
+              "node",
+              "passport",
+              "pug"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -775,12 +1207,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is an Express view engine which renders React components on server. It renders static markup and *does not* support mounting those views on the client.",
+            "homepage": null,
             "id": 18308864,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-01T06:50:33Z",
+            "open_issues": 27,
             "owner": "reactjs",
             "repo": "express-react-views",
-            "stars": 2710
+            "stars": 2710,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -791,12 +1228,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jackblog API Server Express版, 个人博客系统, 基于RESTful架构, 使用Node.js, Express, MongoDB, Redis, Token Auth, 七牛云存储等.",
+            "homepage": "https://jackhu.top",
             "id": 44958960,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-15T11:06:00Z",
+            "open_issues": 1,
             "owner": "hutuxuhui",
             "repo": "jackblog-api-express",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "express",
+              "jackblog",
+              "restful"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -807,12 +1253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用 Nodejs (Express) 编写的团体订餐程序",
+            "homepage": "http://canku.willerce.com/",
             "id": 7542714,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-03-14T10:25:32Z",
+            "open_issues": 2,
             "owner": "kalokzheng",
             "repo": "canku",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -823,12 +1274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个可扩展的node weixin服务器参考实现，目标是可以支持多种node web 服务器。目前以支持express实例为基础。",
+            "homepage": "https://node-weixin.github.io/",
             "id": 40644681,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-02-26T06:07:48Z",
+            "open_issues": 0,
             "owner": "node-weixin",
             "repo": "node-weixin-express",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -839,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interesting! Vue2 + Webpack2 + HMR + Server Side Render + Express template  see demo->",
+            "homepage": "http://ssr.bood.in/",
             "id": 68258461,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-25T08:39:51Z",
+            "open_issues": 6,
             "owner": "hilongjw",
             "repo": "vue-ssr-hmr-template",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -855,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interesting! Vue2 + Webpack2 + HMR + Server Side Render + Express template  see demo->",
+            "homepage": "http://ssr.bood.in/",
             "id": 68258461,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-25T08:39:51Z",
+            "open_issues": 6,
             "owner": "hilongjw",
             "repo": "vue-ssr-hmr-template",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -871,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "综合演示了如何使用 Express 4.x + MongoDB 实现CRUD等Web应用最基本的功能",
+            "homepage": null,
             "id": 68910046,
             "language": "HTML",
+            "license": null,
             "last_commit": "2016-09-28T15:58:17Z",
+            "open_issues": 0,
             "owner": "liuxuanqiang",
             "repo": "Express-MongoDB",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -887,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68619689,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-01T09:37:21Z",
+            "open_issues": 0,
             "owner": "WecanStudio",
             "repo": "wecanstudio-site",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -903,12 +1379,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rest api framework based on express.",
+            "homepage": null,
             "id": 61922898,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-02-11T14:44:38Z",
+            "open_issues": 0,
             "owner": "hstarorg",
             "repo": "rest-express",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api",
+              "express",
+              "mysql",
+              "rest",
+              "sqlserver",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -919,12 +1407,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rest api framework based on express.",
+            "homepage": null,
             "id": 61922898,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-02-11T14:44:38Z",
+            "open_issues": 0,
             "owner": "hstarorg",
             "repo": "rest-express",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api",
+              "express",
+              "mysql",
+              "rest",
+              "sqlserver",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -935,12 +1435,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前端基于webpack+vue+vux，后端基于express+lowdb。有了这些，开发一个项目将会变得很轻松。",
+            "homepage": "http://ticket.imlianer.com/",
             "id": 69136725,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-12T03:16:05Z",
+            "open_issues": 0,
             "owner": "lianer",
             "repo": "meal-ticket",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "vue",
+              "vue-demo",
+              "vue-router",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         }
@@ -949,15 +1459,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:52.758Z",
+    "last_updated": "2026-08-29T04:29:47.172Z",
     "original_repository_info": {
       "archived": false,
+      "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
+      "homepage": "https://wabg.github.io/awesome-express/",
       "id": 71524240,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-05T07:19:46Z",
+      "open_issues": 0,
       "owner": "wabg",
       "repo": "awesome-express",
-      "stars": 280
+      "stars": 280,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "express",
+        "express-passport",
+        "expressjs"
+      ]
     },
     "original_repository_sha": "d28fa5b94466895e456b6fb68b627871732a023a",
     "enhanced_repository": "enhansome/enhansome-express",
