@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10728,
+            "stars": 10729,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10728,
+            "stars": 10729,
             "topics": [
               "helmet",
               "http-headers",
@@ -473,7 +473,7 @@
             "open_issues": 34,
             "owner": "expressjs",
             "repo": "cookie-parser",
-            "stars": 2030,
+            "stars": 2029,
             "topics": [
               "cookie",
               "expressjs",
@@ -1036,7 +1036,7 @@
             "open_issues": 124,
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2361,
+            "stars": 2359,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1153,10 +1153,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-04-26T10:06:31Z",
-            "open_issues": 39,
+            "open_issues": 42,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15376,
+            "stars": 15373,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:25:31.840Z",
+    "last_updated": "2026-09-04T01:20:12.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
