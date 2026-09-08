@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23531,
+            "stars": 23530,
             "topics": [
               "express",
               "nodejs",
@@ -49,7 +49,7 @@
             "open_issues": 177,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12084,
+            "stars": 12083,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10731,
+            "stars": 10732,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10731,
+            "stars": 10732,
             "topics": [
               "helmet",
               "http-headers",
@@ -176,7 +176,7 @@
             "open_issues": 97,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6358,
+            "stars": 6359,
             "topics": [
               "expressjs",
               "javascript",
@@ -226,8 +226,8 @@
             "id": 15669006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T07:42:03Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-07T17:51:13Z",
+            "open_issues": 52,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5500,
@@ -330,8 +330,8 @@
             "id": 15669006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T07:42:03Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-07T17:51:13Z",
+            "open_issues": 52,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5500,
@@ -1057,7 +1057,7 @@
             "open_issues": 77,
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1852,
+            "stars": 1851,
             "topics": [
               "express",
               "generator",
@@ -1156,7 +1156,7 @@
             "open_issues": 47,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15370,
+            "stars": 15371,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:17:11.429Z",
+    "last_updated": "2026-09-08T01:21:57.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
