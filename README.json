@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23532,
+            "stars": 23530,
             "topics": [
               "express",
               "nodejs",
@@ -120,8 +120,8 @@
             "id": 16650937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T08:41:27Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-09T13:41:12Z",
+            "open_issues": 19,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8201,
@@ -146,8 +146,8 @@
             "id": 16650937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T08:41:27Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-09T13:41:12Z",
+            "open_issues": 19,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8201,
@@ -203,7 +203,7 @@
             "open_issues": 51,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6195,
+            "stars": 6194,
             "topics": [
               "cors",
               "expressjs",
@@ -230,7 +230,7 @@
             "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500,
+            "stars": 5499,
             "topics": [
               "body",
               "expressjs",
@@ -265,7 +265,7 @@
                 "open_issues": 12,
                 "owner": "stream-utils",
                 "repo": "raw-body",
-                "stars": 409,
+                "stars": 408,
                 "topics": [
                   "body",
                   "bun",
@@ -317,7 +317,7 @@
                 "open_issues": 8,
                 "owner": "Raynos",
                 "repo": "body",
-                "stars": 121,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:52.758Z"
@@ -334,7 +334,7 @@
             "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500,
+            "stars": 5499,
             "topics": [
               "body",
               "expressjs",
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4513,
+            "stars": 4511,
             "topics": [
               "express-jwt",
               "jwt"
@@ -384,11 +384,11 @@
             "id": 15571957,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:14:58Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-09T10:09:37Z",
+            "open_issues": 22,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2807,
+            "stars": 2806,
             "topics": [
               "compression",
               "deflate",
@@ -413,11 +413,11 @@
             "id": 15571957,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:14:58Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-09T10:09:37Z",
+            "open_issues": 22,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2807,
+            "stars": 2806,
             "topics": [
               "compression",
               "deflate",
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "expressjs",
             "repo": "csurf",
-            "stars": 2306,
+            "stars": 2305,
             "topics": [
               "csrf",
               "expressjs",
@@ -473,7 +473,7 @@
             "open_issues": 34,
             "owner": "expressjs",
             "repo": "cookie-parser",
-            "stars": 2030,
+            "stars": 2029,
             "topics": [
               "cookie",
               "expressjs",
@@ -500,7 +500,7 @@
             "open_issues": 26,
             "owner": "expressjs",
             "repo": "serve-static",
-            "stars": 1423,
+            "stars": 1421,
             "topics": [
               "expressjs",
               "javascript",
@@ -528,7 +528,7 @@
             "open_issues": 146,
             "owner": "villadora",
             "repo": "express-http-proxy",
-            "stars": 1252,
+            "stars": 1251,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -549,7 +549,7 @@
             "open_issues": 16,
             "owner": "expressjs",
             "repo": "cookie-session",
-            "stars": 1150,
+            "stars": 1149,
             "topics": [
               "cookie",
               "expressjs",
@@ -577,40 +577,13 @@
             "open_issues": 8,
             "owner": "expressjs",
             "repo": "vhost",
-            "stars": 767,
+            "stars": 766,
             "topics": [
               "expressjs",
               "javascript",
               "middleware",
               "nodejs",
               "vhost"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:52.758Z"
-        },
-        {
-          "node_type": "item",
-          "title": "method-override",
-          "description": "先前为 express.methodOverride。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Override HTTP verbs.",
-            "homepage": null,
-            "id": 17359182,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-03-01T11:27:08Z",
-            "open_issues": 12,
-            "owner": "expressjs",
-            "repo": "method-override",
-            "stars": 628,
-            "topics": [
-              "expressjs",
-              "javascript",
-              "method-override",
-              "middleware",
-              "nodejs"
             ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -644,6 +617,33 @@
         },
         {
           "node_type": "item",
+          "title": "method-override",
+          "description": "先前为 express.methodOverride。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Override HTTP verbs.",
+            "homepage": null,
+            "id": 17359182,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-03-01T11:27:08Z",
+            "open_issues": 12,
+            "owner": "expressjs",
+            "repo": "method-override",
+            "stars": 625,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "method-override",
+              "middleware",
+              "nodejs"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:52.758Z"
+        },
+        {
+          "node_type": "item",
           "title": "response-time",
           "description": "先前为 express.responseTime。",
           "children": [],
@@ -658,7 +658,7 @@
             "open_issues": 8,
             "owner": "expressjs",
             "repo": "response-time",
-            "stars": 498,
+            "stars": 497,
             "topics": [
               "javascript",
               "middleware",
@@ -684,7 +684,7 @@
             "open_issues": 37,
             "owner": "expressjs",
             "repo": "serve-index",
-            "stars": 448,
+            "stars": 447,
             "topics": [
               "directory",
               "expressjs",
@@ -712,7 +712,7 @@
             "open_issues": 6,
             "owner": "expressjs",
             "repo": "errorhandler",
-            "stars": 426,
+            "stars": 425,
             "topics": [
               "error",
               "javascript",
@@ -738,34 +738,8 @@
             "open_issues": 0,
             "owner": "expressjs",
             "repo": "connect-multiparty",
-            "stars": 349,
+            "stars": 348,
             "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:52.758Z"
-        },
-        {
-          "node_type": "item",
-          "title": "connect-timeout",
-          "description": "先前为 express.timeout。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Request timeout middleware for Connect/Express",
-            "homepage": null,
-            "id": 17359642,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-06-03T01:07:15Z",
-            "open_issues": 19,
-            "owner": "expressjs",
-            "repo": "timeout",
-            "stars": 322,
-            "topics": [
-              "javascript",
-              "middleware",
-              "nodejs",
-              "timeout"
-            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -800,6 +774,32 @@
         },
         {
           "node_type": "item",
+          "title": "connect-timeout",
+          "description": "先前为 express.timeout。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Request timeout middleware for Connect/Express",
+            "homepage": null,
+            "id": 17359642,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-06-03T01:07:15Z",
+            "open_issues": 19,
+            "owner": "expressjs",
+            "repo": "timeout",
+            "stars": 320,
+            "topics": [
+              "javascript",
+              "middleware",
+              "nodejs",
+              "timeout"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:52.758Z"
+        },
+        {
+          "node_type": "item",
           "title": "express-debug",
           "description": "不引人注目的开发工具，用于向应用程序添加一个选项卡，其中包含有关模板变量（本地）、当前会话、有用请求数据等方面的信息。",
           "children": [],
@@ -814,7 +814,7 @@
             "open_issues": 14,
             "owner": "devoidfury",
             "repo": "express-debug",
-            "stars": 198,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -835,7 +835,7 @@
             "open_issues": 6,
             "owner": "ericf",
             "repo": "express-slash",
-            "stars": 153,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -884,33 +884,6 @@
         },
         {
           "node_type": "item",
-          "title": "join-io",
-          "description": "一个模块，用于实时联接文件以减少请求数目。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "join files on a fly to reduce requests count",
-            "homepage": null,
-            "id": 22952614,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2021-01-25T18:34:17Z",
-            "open_issues": 0,
-            "owner": "coderaiser",
-            "repo": "join-io",
-            "stars": 81,
-            "topics": [
-              "cloudcmd",
-              "express",
-              "express-middleware",
-              "javascript",
-              "nodejs"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:52.758Z"
-        },
-        {
-          "node_type": "item",
           "title": "view-helpers",
           "description": "Express 中间件模块，用于向视图提供常见助手方法。",
           "children": [],
@@ -927,6 +900,33 @@
             "repo": "node-view-helpers",
             "stars": 81,
             "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:52.758Z"
+        },
+        {
+          "node_type": "item",
+          "title": "join-io",
+          "description": "一个模块，用于实时联接文件以减少请求数目。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "join files on a fly to reduce requests count",
+            "homepage": null,
+            "id": 22952614,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2021-01-25T18:34:17Z",
+            "open_issues": 0,
+            "owner": "coderaiser",
+            "repo": "join-io",
+            "stars": 79,
+            "topics": [
+              "cloudcmd",
+              "express",
+              "express-middleware",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
         },
@@ -967,7 +967,7 @@
             "open_issues": 1,
             "owner": "tacomilkshake",
             "repo": "express-simple-cdn",
-            "stars": 36,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -988,7 +988,7 @@
             "open_issues": 5,
             "owner": "paulwalker",
             "repo": "connect-static-expiry",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1036,7 +1036,7 @@
             "open_issues": 123,
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2358,
+            "stars": 2357,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1083,7 +1083,7 @@
             "open_issues": 59,
             "owner": "zhangyuanwei",
             "repo": "node-images",
-            "stars": 1553,
+            "stars": 1552,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1153,7 +1153,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-04-26T10:06:31Z",
-            "open_issues": 49,
+            "open_issues": 52,
             "owner": "nswbmw",
             "repo": "N-blog",
             "stars": 15371,
@@ -1186,7 +1186,7 @@
             "open_issues": 15,
             "owner": "madhums",
             "repo": "node-express-mongoose-demo",
-            "stars": 5095,
+            "stars": 5094,
             "topics": [
               "demo",
               "docker",
@@ -1216,7 +1216,7 @@
             "open_issues": 27,
             "owner": "reactjs",
             "repo": "express-react-views",
-            "stars": 2710,
+            "stars": 2709,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:29:55.029Z",
+    "last_updated": "2026-09-10T01:25:09.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
