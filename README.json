@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23530,
+            "stars": 23531,
             "topics": [
               "express",
               "nodejs",
@@ -49,7 +49,7 @@
             "open_issues": 162,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12081,
+            "stars": 12080,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10735,
+            "stars": 10737,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10735,
+            "stars": 10737,
             "topics": [
               "helmet",
               "http-headers",
@@ -1156,7 +1156,7 @@
             "open_issues": 53,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15368,
+            "stars": 15367,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:26:18.402Z",
+    "last_updated": "2026-09-19T01:32:56.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
