@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,454 | 🐛 232 | 🌐 JavaScript | 📅 2026-09-15 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,464 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-15 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,8 +27,8 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,529 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,082 | 🐛 164 | 🌐 JavaScript | 📅 2026-09-14 - 官方推荐的文件上传中间件。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,531 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,083 | 🐛 165 | 🌐 JavaScript | 📅 2026-09-14 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,735 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-11 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,735 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-11 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
@@ -47,7 +47,7 @@
 * [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-11 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。
 * [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,030 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.cookieParser。
-* [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,421 | 🐛 26 | 🌐 JavaScript | 📅 2026-01-03 - 用于提供静态内容的模块。
+* [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,421 | 🐛 27 | 🌐 JavaScript | 📅 2026-01-03 - 用于提供静态内容的模块。
 * [express-http-proxy](https://github.com/villadora/express-http-proxy) ⭐ 1,250 | 🐛 146 | 🌐 JavaScript | 📅 2026-02-14 - 解决跨域问题。
 * [cookie-session](https://github.com/expressjs/cookie-session) ⭐ 1,148 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.cookieSession。
 * [vhost](https://github.com/expressjs/vhost) ⭐ 766 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-01 - 先前为 express.vhost。
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
