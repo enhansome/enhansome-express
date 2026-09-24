@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,464 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-15 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,465 | 🐛 234 | 🌐 JavaScript | 📅 2026-09-15 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,13 +27,13 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,531 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,083 | 🐛 165 | 🌐 JavaScript | 📅 2026-09-14 - 官方推荐的文件上传中间件。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,532 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,083 | 🐛 163 | 🌐 JavaScript | 📅 2026-09-14 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,735 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-11 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,735 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-11 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-11 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-11 - 先前为 logger。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-11 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-11 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,356 | 🐛 97 | 🌐 JavaScript | 📅 2026-09-01 - 先前为 express.session。
 * [cors](https://github.com/expressjs/cors) ⭐ 6,194 | 🐛 51 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
@@ -43,8 +43,8 @@
   * [co-body](https://github.com/visionmedia/co-body) ⭐ 325 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 119 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
 * [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,508 | 🐛 65 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
-* [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-11 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
-* [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-11 - 压缩和处理静态内容。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-11 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,805 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-11 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。
 * [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,030 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.cookieParser。
 * [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,421 | 🐛 27 | 🌐 JavaScript | 📅 2026-01-03 - 用于提供静态内容的模块。
@@ -75,7 +75,7 @@
 
 *Node工具不依赖Express框架*
 
-* [lwip](https://github.com/EyalAr/lwip) ⭐ 2,356 | 🐛 123 | 🌐 C | 📅 2022-04-19 - 对于Nodejs轻量级的图像处理器。
+* [lwip](https://github.com/EyalAr/lwip) ⭐ 2,355 | 🐛 123 | 🌐 C | 📅 2022-04-19 - 对于Nodejs轻量级的图像处理器。
 * [express-generator](https://github.com/expressjs/generator) ⭐ 1,851 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-02 - 命令行工具 Express 应用程序生成器
 * [node-images](https://github.com/zhangyuanwei/node-images) ⭐ 1,552 | 🐛 59 | 🌐 C++ | 📅 2024-04-29 - 轻量级跨平台图像编解码库。
 * [generator-express](https://github.com/petecoop/generator-express) ⚠️ Archived - 命令行工具Yeoman 生成 Express 应用程序
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

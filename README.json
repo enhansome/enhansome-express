@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23531,
+            "stars": 23532,
             "topics": [
               "express",
               "nodejs",
@@ -46,7 +46,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-14T08:11:30Z",
-            "open_issues": 165,
+            "open_issues": 163,
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12083,
@@ -121,7 +121,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T08:55:39Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8202,
@@ -147,7 +147,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T08:55:39Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8202,
@@ -385,10 +385,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T11:04:52Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2806,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -414,10 +414,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T11:04:52Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2806,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -1036,7 +1036,7 @@
             "open_issues": 123,
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2356,
+            "stars": 2355,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:44:39.067Z",
+    "last_updated": "2026-09-24T01:37:46.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
