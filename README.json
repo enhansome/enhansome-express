@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23532,
+            "stars": 23530,
             "topics": [
               "express",
               "nodejs",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-14T08:11:30Z",
-            "open_issues": 163,
+            "open_issues": 165,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12083,
+            "stars": 12084,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -121,10 +121,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T08:55:39Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8202,
+            "stars": 8203,
             "topics": [
               "express",
               "javascript",
@@ -147,10 +147,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T08:55:39Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8202,
+            "stars": 8203,
             "topics": [
               "express",
               "javascript",
@@ -200,10 +200,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-02T20:00:40Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6194,
+            "stars": 6195,
             "topics": [
               "cors",
               "expressjs",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:37:46.969Z",
+    "last_updated": "2026-09-25T01:52:12.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
@@ -1471,7 +1471,7 @@
       "open_issues": 0,
       "owner": "wabg",
       "repo": "awesome-express",
-      "stars": 280,
+      "stars": 281,
       "topics": [
         "awesome",
         "awesome-list",
