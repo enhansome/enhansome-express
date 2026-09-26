@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-14T08:11:30Z",
-            "open_issues": 165,
+            "open_issues": 164,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12084,
+            "stars": 12085,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 53,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15367,
+            "stars": 15369,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:52:12.913Z",
+    "last_updated": "2026-09-26T01:56:03.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
