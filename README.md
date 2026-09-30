@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,498 | 🐛 233 | 🌐 JavaScript | 📅 2026-09-29 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,502 | 🐛 235 | 🌐 JavaScript | 📅 2026-09-29 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,7 +27,7 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,529 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,528 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
 * [Multer](https://github.com/expressjs/multer) ⭐ 12,087 | 🐛 164 | 🌐 JavaScript | 📅 2026-09-14 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,738 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-11 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
@@ -54,7 +54,7 @@
 * [serve-favicon](https://github.com/expressjs/serve-favicon) ⭐ 628 | 🐛 8 | 🌐 JavaScript | 📅 2026-02-01 - 先前为 express.favicon。
 * [method-override](https://github.com/expressjs/method-override) ⭐ 625 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-01 - 先前为 express.methodOverride。
 * [response-time](https://github.com/expressjs/response-time) ⭐ 497 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.responseTime。
-* [serve-index](https://github.com/expressjs/serve-index) ⭐ 447 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.directory。
+* [serve-index](https://github.com/expressjs/serve-index) ⭐ 448 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.directory。
 * [errorhandler](https://github.com/expressjs/errorhandler) ⭐ 425 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-01 - 先前为 express.errorHandler。
 * <del>[connect-multiparty](https://github.com/expressjs/connect-multiparty) ⚠️ Archived</del> - 官方的文件上传中间件(不推荐使用)
 * [express-stormpath](https://github.com/stormpath/stormpath-express) ⚠️ Archived - 实现用户存储、认证、授权、SSO 和数据安全性的 Express 中间件模块。
@@ -92,7 +92,7 @@
 * [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 * [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 * [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
-* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,867 | 🐛 10 | 🌐 Ruby | 📅 2023-08-22
+* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,868 | 🐛 10 | 🌐 Ruby | 📅 2023-08-22
 * [Express结合Passport实现登陆认证](http://blog.fens.me/nodejs-express-passport/)
 * [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
 * [webpack+vue+vux+express+lowdb实践](https://segmentfault.com/a/1190000006998791)
@@ -126,7 +126,7 @@
 
 *Express的Demo例子搜集*
 
-* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,368 | 🐛 55 | 🌐 JavaScript | 📅 2023-04-26
+* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,368 | 🐛 57 | 🌐 JavaScript | 📅 2023-04-26
 * [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo) ⭐ 5,092 | 🐛 15 | 🌐 JavaScript | 📅 2025-10-30
 * [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views) ⚠️ Archived
 * [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express) ⭐ 410 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-15
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
