@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23528,
+            "stars": 23526,
             "topics": [
               "express",
               "nodejs",
@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10738,
+            "stars": 10737,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 9,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10738,
+            "stars": 10737,
             "topics": [
               "helmet",
               "http-headers",
@@ -176,7 +176,7 @@
             "open_issues": 97,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6354,
+            "stars": 6353,
             "topics": [
               "expressjs",
               "javascript",
@@ -384,8 +384,8 @@
             "id": 15571957,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:04:52Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-01T00:46:02Z",
+            "open_issues": 26,
             "owner": "expressjs",
             "repo": "compression",
             "stars": 2805,
@@ -413,8 +413,8 @@
             "id": 15571957,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:04:52Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-01T00:46:02Z",
+            "open_issues": 26,
             "owner": "expressjs",
             "repo": "compression",
             "stars": 2805,
@@ -549,7 +549,7 @@
             "open_issues": 17,
             "owner": "expressjs",
             "repo": "cookie-session",
-            "stars": 1148,
+            "stars": 1147,
             "topics": [
               "cookie",
               "expressjs",
@@ -1237,7 +1237,7 @@
             "open_issues": 1,
             "owner": "hutuxuhui",
             "repo": "jackblog-api-express",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "express",
               "jackblog",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:20:40.049Z",
+    "last_updated": "2026-10-01T02:22:16.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
