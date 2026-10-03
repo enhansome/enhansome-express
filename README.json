@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "raw-body",
-              "description": null,
+              "description": "stream-utils/raw-body",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,7 +283,7 @@
             {
               "node_type": "item",
               "title": "co-body",
-              "description": null,
+              "description": "cojs/co-body",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "body",
-              "description": null,
+              "description": "Raynos/body",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1143,7 +1143,7 @@
         {
           "node_type": "item",
           "title": "使用 Express + MongoDB 搭建多人博客",
-          "description": null,
+          "description": "nswbmw/N-blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1173,7 +1173,7 @@
         {
           "node_type": "item",
           "title": "一个简单的例子使用Express+mongoose+passport登录验证",
-          "description": null,
+          "description": "madhums/node-express-mongoose-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1203,7 +1203,7 @@
         {
           "node_type": "item",
           "title": "reactjs官方例子express-react-views",
-          "description": null,
+          "description": "reactjs/express-react-views",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1224,7 +1224,7 @@
         {
           "node_type": "item",
           "title": "个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储",
-          "description": null,
+          "description": "hutuxuhui/jackblog-api-express",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1249,7 +1249,7 @@
         {
           "node_type": "item",
           "title": "使用 Nodejs (Express) 编写的团体订餐程序",
-          "description": null,
+          "description": "kalokzheng/canku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1270,7 +1270,7 @@
         {
           "node_type": "item",
           "title": "Express搭建微信公共账号服务",
-          "description": null,
+          "description": "node-weixin/node-weixin-express",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1291,7 +1291,7 @@
         {
           "node_type": "item",
           "title": "简单的 Vue2 + Webpack2 + Express + 热更新工程模板",
-          "description": null,
+          "description": "hilongjw/vue-ssr-hmr-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1312,7 +1312,7 @@
         {
           "node_type": "item",
           "title": "简单的 Vue2 + Webpack2 + Express + 热更新工程模板",
-          "description": null,
+          "description": "hilongjw/vue-ssr-hmr-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1333,7 +1333,7 @@
         {
           "node_type": "item",
           "title": "Express 4.x + MongoDB 实现CRUD",
-          "description": null,
+          "description": "liuxuanqiang/Express-MongoDB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1354,7 +1354,7 @@
         {
           "node_type": "item",
           "title": "Express + MongoDB + Vue.js 搭建的 Web 应用",
-          "description": null,
+          "description": "WecanStudio/wecanstudio-site",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1375,7 +1375,7 @@
         {
           "node_type": "item",
           "title": "V-Tom - 一个基于Node.js,Express,Mongodb,vue的博客",
-          "description": null,
+          "description": "hstarorg/rest-express",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1403,7 +1403,7 @@
         {
           "node_type": "item",
           "title": "利用express简化rest api开发",
-          "description": null,
+          "description": "hstarorg/rest-express",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1431,7 +1431,7 @@
         {
           "node_type": "item",
           "title": "前端基于webpack+vue+vux，后端基于express+lowdb",
-          "description": null,
+          "description": "lianer/meal-ticket",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:17:46.465Z",
+    "last_updated": "2026-10-03T04:50:37.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
