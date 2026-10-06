@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,548 | 🐛 242 | 🌐 JavaScript | 📅 2026-10-01 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,552 | 🐛 242 | 🌐 JavaScript | 📅 2026-10-01 - Express GitHub仓库
 
 ## 中文文档
 
