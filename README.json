@@ -45,8 +45,8 @@
             "id": 16386099,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:18:33Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-06T19:02:07Z",
+            "open_issues": 166,
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12091,
@@ -70,7 +70,7 @@
             "open_issues": 6,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10735,
+            "stars": 10736,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 6,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10735,
+            "stars": 10736,
             "topics": [
               "helmet",
               "http-headers",
@@ -173,7 +173,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-01T20:37:17Z",
-            "open_issues": 97,
+            "open_issues": 94,
             "owner": "expressjs",
             "repo": "session",
             "stars": 6352,
@@ -203,7 +203,7 @@
             "open_issues": 52,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6196,
+            "stars": 6195,
             "topics": [
               "cors",
               "expressjs",
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4508,
+            "stars": 4507,
             "topics": [
               "express-jwt",
               "jwt"
@@ -446,7 +446,7 @@
             "open_issues": 0,
             "owner": "expressjs",
             "repo": "csurf",
-            "stars": 2304,
+            "stars": 2303,
             "topics": [
               "csrf",
               "expressjs",
@@ -496,8 +496,8 @@
             "id": 17464338,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-01-03T18:08:02Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-06T19:02:11Z",
+            "open_issues": 26,
             "owner": "expressjs",
             "repo": "serve-static",
             "stars": 1421,
@@ -1156,7 +1156,7 @@
             "open_issues": 59,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15364,
+            "stars": 15365,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:18:32.068Z",
+    "last_updated": "2026-10-07T02:40:50.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
