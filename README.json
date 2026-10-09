@@ -124,7 +124,7 @@
             "open_issues": 23,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8200,
+            "stars": 8199,
             "topics": [
               "express",
               "javascript",
@@ -150,7 +150,7 @@
             "open_issues": 23,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8200,
+            "stars": 8199,
             "topics": [
               "express",
               "javascript",
@@ -172,7 +172,7 @@
             "id": 16875250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T20:37:17Z",
+            "last_commit": "2026-10-08T11:51:08Z",
             "open_issues": 94,
             "owner": "expressjs",
             "repo": "session",
@@ -203,7 +203,7 @@
             "open_issues": 52,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6195,
+            "stars": 6194,
             "topics": [
               "cors",
               "expressjs",
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4507,
+            "stars": 4506,
             "topics": [
               "express-jwt",
               "jwt"
@@ -388,7 +388,7 @@
             "open_issues": 28,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2805,
+            "stars": 2804,
             "topics": [
               "compression",
               "deflate",
@@ -417,7 +417,7 @@
             "open_issues": 28,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2805,
+            "stars": 2804,
             "topics": [
               "compression",
               "deflate",
@@ -814,7 +814,7 @@
             "open_issues": 14,
             "owner": "devoidfury",
             "repo": "express-debug",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 59,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15365,
+            "stars": 15364,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:53:03.959Z",
+    "last_updated": "2026-10-09T03:03:43.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
