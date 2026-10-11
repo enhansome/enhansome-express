@@ -19,7 +19,7 @@
             "open_issues": 397,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23522,
+            "stars": 23523,
             "topics": [
               "express",
               "nodejs",
@@ -173,7 +173,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T11:51:08Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "expressjs",
             "repo": "session",
             "stars": 6352,
@@ -230,7 +230,7 @@
             "open_issues": 50,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5495,
+            "stars": 5497,
             "topics": [
               "body",
               "expressjs",
@@ -334,7 +334,7 @@
             "open_issues": 50,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5495,
+            "stars": 5497,
             "topics": [
               "body",
               "expressjs",
@@ -1156,7 +1156,7 @@
             "open_issues": 59,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15364,
+            "stars": 15362,
             "topics": [
               "blog",
               "course",
@@ -1262,7 +1262,7 @@
             "open_issues": 2,
             "owner": "kalokzheng",
             "repo": "canku",
-            "stars": 353,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:42:09.746Z",
+    "last_updated": "2026-10-11T02:09:09.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
@@ -1471,7 +1471,7 @@
       "open_issues": 0,
       "owner": "wabg",
       "repo": "awesome-express",
-      "stars": 281,
+      "stars": 279,
       "topics": [
         "awesome",
         "awesome-list",
