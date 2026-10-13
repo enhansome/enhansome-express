@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,624 | 🐛 236 | 🌐 JavaScript | 📅 2026-10-09 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,628 | 🐛 236 | 🌐 JavaScript | 📅 2026-10-09 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,15 +27,15 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,521 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,089 | 🐛 166 | 🌐 JavaScript | 📅 2026-10-06 - 官方推荐的文件上传中间件。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,520 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,087 | 🐛 166 | 🌐 JavaScript | 📅 2026-10-06 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,737 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-04 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,737 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-04 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 - 先前为 logger。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-01 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,352 | 🐛 95 | 🌐 JavaScript | 📅 2026-10-08 - 先前为 express.session。
-* [cors](https://github.com/expressjs/cors) ⭐ 6,195 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
+* [cors](https://github.com/expressjs/cors) ⭐ 6,193 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,497 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-02 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,497 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-02 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
