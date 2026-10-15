@@ -49,7 +49,7 @@
             "open_issues": 166,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12086,
+            "stars": 12084,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -173,7 +173,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T11:51:08Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "expressjs",
             "repo": "session",
             "stars": 6353,
@@ -265,7 +265,7 @@
                 "open_issues": 12,
                 "owner": "stream-utils",
                 "repo": "raw-body",
-                "stars": 407,
+                "stars": 406,
                 "topics": [
                   "body",
                   "bun",
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4507,
+            "stars": 4508,
             "topics": [
               "express-jwt",
               "jwt"
@@ -388,7 +388,7 @@
             "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2806,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -417,7 +417,7 @@
             "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2806,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -1156,7 +1156,7 @@
             "open_issues": 59,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15360,
+            "stars": 15358,
             "topics": [
               "blog",
               "course",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:08:24.652Z",
+    "last_updated": "2026-10-15T01:47:32.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
