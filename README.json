@@ -19,7 +19,7 @@
             "open_issues": 397,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23521,
+            "stars": 23520,
             "topics": [
               "express",
               "nodejs",
@@ -45,11 +45,11 @@
             "id": 16386099,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T19:02:07Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-15T14:36:08Z",
+            "open_issues": 167,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12084,
+            "stars": 12086,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -120,8 +120,8 @@
             "id": 16650937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T08:40:44Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-15T13:59:03Z",
+            "open_issues": 24,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8201,
@@ -146,8 +146,8 @@
             "id": 16650937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T08:40:44Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-15T13:59:03Z",
+            "open_issues": 24,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8201,
@@ -226,8 +226,8 @@
             "id": 15669006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:30:05Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-15T15:31:43Z",
+            "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5498,
@@ -330,8 +330,8 @@
             "id": 15669006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:30:05Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-15T15:31:43Z",
+            "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5498,
@@ -388,7 +388,7 @@
             "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2805,
+            "stars": 2806,
             "topics": [
               "compression",
               "deflate",
@@ -417,7 +417,7 @@
             "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2805,
+            "stars": 2806,
             "topics": [
               "compression",
               "deflate",
@@ -1057,7 +1057,7 @@
             "open_issues": 79,
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1851,
+            "stars": 1850,
             "topics": [
               "express",
               "generator",
@@ -1083,7 +1083,7 @@
             "open_issues": 59,
             "owner": "zhangyuanwei",
             "repo": "node-images",
-            "stars": 1552,
+            "stars": 1551,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1129,7 +1129,7 @@
             "open_issues": 18,
             "owner": "azat-co",
             "repo": "expressworks",
-            "stars": 734,
+            "stars": 735,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 59,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15358,
+            "stars": 15356,
             "topics": [
               "blog",
               "course",
@@ -1304,7 +1304,7 @@
             "open_issues": 6,
             "owner": "hilongjw",
             "repo": "vue-ssr-hmr-template",
-            "stars": 226,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1325,7 +1325,7 @@
             "open_issues": 6,
             "owner": "hilongjw",
             "repo": "vue-ssr-hmr-template",
-            "stars": 226,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:47:32.392Z",
+    "last_updated": "2026-10-16T01:37:31.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
