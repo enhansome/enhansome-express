@@ -18,7 +18,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,572 | 🐛 236 | 🌐 JavaScript | 📅 2026-10-09 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,575 | 🐛 240 | 🌐 JavaScript | 📅 2026-10-17 - Express GitHub仓库
 
 ## 中文文档
 
@@ -28,10 +28,10 @@
 ## 中间件
 
 * [passport](https://github.com/jaredhanson/passport) ⭐ 23,521 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,086 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-15 - 官方推荐的文件上传中间件。
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,736 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-04 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,087 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-15 - 官方推荐的文件上传中间件。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,736 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-04 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,736 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-04 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,736 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-04 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
 * [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - HTTP请求日志中间件。
 * [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,353 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-08 - 先前为 express.session。
@@ -92,7 +92,7 @@
 * [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 * [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 * [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
-* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,868 | 🐛 10 | 🌐 Ruby | 📅 2023-08-22
+* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,866 | 🐛 10 | 🌐 Ruby | 📅 2023-08-22
 * [Express结合Passport实现登陆认证](http://blog.fens.me/nodejs-express-passport/)
 * [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
 * [webpack+vue+vux+express+lowdb实践](https://segmentfault.com/a/1190000006998791)
@@ -126,7 +126,7 @@
 
 *Express的Demo例子搜集*
 
-* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,355 | 🐛 59 | 🌐 JavaScript | 📅 2023-04-26
+* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,354 | 🐛 59 | 🌐 JavaScript | 📅 2023-04-26
 * [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo) ⭐ 5,091 | 🐛 15 | 🌐 JavaScript | 📅 2025-10-30
 * [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views) ⚠️ Archived
 * [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express) ⭐ 411 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-15
@@ -143,4 +143,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
