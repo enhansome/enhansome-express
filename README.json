@@ -46,7 +46,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-15T14:36:08Z",
-            "open_issues": 166,
+            "open_issues": 165,
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12087,
@@ -70,7 +70,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10737,
+            "stars": 10738,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10737,
+            "stars": 10738,
             "topics": [
               "helmet",
               "http-headers",
@@ -176,7 +176,7 @@
             "open_issues": 96,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6353,
+            "stars": 6355,
             "topics": [
               "expressjs",
               "javascript",
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4509,
+            "stars": 4510,
             "topics": [
               "express-jwt",
               "jwt"
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:02:45.053Z",
+    "last_updated": "2026-10-21T01:58:38.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
