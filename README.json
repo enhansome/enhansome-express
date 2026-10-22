@@ -45,8 +45,8 @@
             "id": 16386099,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T14:36:08Z",
-            "open_issues": 165,
+            "last_commit": "2026-10-21T18:59:05Z",
+            "open_issues": 161,
             "owner": "expressjs",
             "repo": "multer",
             "stars": 12087,
@@ -70,7 +70,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10738,
+            "stars": 10737,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10738,
+            "stars": 10737,
             "topics": [
               "helmet",
               "http-headers",
@@ -200,10 +200,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-02T20:00:40Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6195,
+            "stars": 6194,
             "topics": [
               "cors",
               "expressjs",
@@ -226,8 +226,8 @@
             "id": 15669006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T15:31:43Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-21T15:44:38Z",
+            "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5499,
@@ -330,8 +330,8 @@
             "id": 15669006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T15:31:43Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-21T15:44:38Z",
+            "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5499,
@@ -528,7 +528,7 @@
             "open_issues": 146,
             "owner": "villadora",
             "repo": "express-http-proxy",
-            "stars": 1250,
+            "stars": 1249,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1186,7 +1186,7 @@
             "open_issues": 15,
             "owner": "madhums",
             "repo": "node-express-mongoose-demo",
-            "stars": 5091,
+            "stars": 5089,
             "topics": [
               "demo",
               "docker",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:58:38.762Z",
+    "last_updated": "2026-10-22T01:48:03.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
