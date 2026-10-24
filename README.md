@@ -1,3 +1,43 @@
+<div markdown="1">
+  <sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup>
+  <br>
+  <a target="_blank" href="https://wangchujiang.com/dock-lift/" title="DockLift: Windows, Here"><img alt="DockLift: Windows, Here" height="52" src="https://wangchujiang.com/appicon/dock-lift.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
+  <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6752624705" title="VidCrop for macOS"><img alt="VidCrop" height="52" src="https://wangchujiang.com/appicon/vidcrop.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6747587746" title="Vidwall for macOS"><img alt="Vidwall" height="52" src="https://wangchujiang.com/appicon/vidwall.png"></a>
+  <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img alt="Mousio Hint" height="52" src="https://wangchujiang.com/appicon/mousio-hint.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6746747327" title="Mousio for macOS"><img alt="Mousio" height="52" src="https://wangchujiang.com/appicon/mousio.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6745227444" title="Musicer for macOS"><img alt="Musicer" height="52" src="https://wangchujiang.com/appicon/musicer.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6743841447" title="Audioer for macOS"><img alt="Audioer" height="52" src="https://wangchujiang.com/appicon/audioer.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6744690194" title="FileSentinel for macOS"><img alt="FileSentinel" height="52" src="https://wangchujiang.com/appicon/file-sentinel.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6743495172" title="FocusCursor for macOS"><img alt="FocusCursor" height="52" src="https://wangchujiang.com/appicon/focus-cursor.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6742680573" title="Videoer for macOS"><img alt="Videoer" height="52" src="https://wangchujiang.com/appicon/videoer.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6740425504" title="KeyClicker for macOS"><img alt="KeyClicker" height="52" src="https://wangchujiang.com/appicon/key-clicker.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6739052447" title="DayBar for macOS"><img alt="DayBar" height="52" src="https://wangchujiang.com/appicon/daybar.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6739444407" title="Iconed for macOS"><img alt="Iconed" height="52" src="https://wangchujiang.com/appicon/iconed.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6737160756" title="Menuist for macOS"><img alt="Menuist" height="52" src="https://wangchujiang.com/appicon/rightmenu-master.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6723903021" title="Paste Quick for macOS"><img alt="Quick RSS" height="52" src="https://wangchujiang.com/appicon/paste-quick.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670696072&platform=mac" title="Quick RSS for macOS/iOS"><img alt="Quick RSS" height="52" src="https://wangchujiang.com/appicon/quick-rss.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve" height="52" src="https://wangchujiang.com/appicon/web-serve.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6503953628&platform=mac" title="Copybook Generator for macOS/iOS"><img alt="Copybook Generator" height="52" src="https://wangchujiang.com/appicon/copybook-generator.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=mac" title="DevTutor for macOS/iOS"><img alt="DevTutor for SwiftUI" height="52" src="https://wangchujiang.com/appicon/devtutor.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479819388&platform=mac" title="RegexMate for macOS/iOS"><img alt="RegexMate" height="52" src="https://wangchujiang.com/appicon/regex-mate.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6479194014&platform=mac" title="Time Passage for macOS/iOS"><img alt="Time Passage" height="52" src="https://wangchujiang.com/appicon/time-passage.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6478772538" title="IconizeFolder for macOS"><img alt="Iconize Folder" height="52" src="https://wangchujiang.com/appicon/iconize-folder.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6478511402&platform=mac" title="Textsound Saver for macOS/iOS"><img alt="Textsound Saver" height="52" src="https://wangchujiang.com/appicon/textsound-saver.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476924627" title="Create Custom Symbols for macOS"><img alt="Create Custom Symbols" height="52" src="https://wangchujiang.com/appicon/create-custom-symbols.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476452351" title="DevHub for macOS"><img alt="DevHub" height="52" src="https://wangchujiang.com/appicon/devhub.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Resume Revise for macOS"><img alt="Resume Revise" height="52" src="https://wangchujiang.com/appicon/resume-revise.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
+</div>
+<hr>
+
 # Awesome Express with stars
 
 这个仓库主要是收集 `Express` 好用的中间件、新闻资讯、网站等，这是我在基于`Express`开发web应用过程中搜集到的一些插件和看到的一些好的内容。
@@ -18,7 +58,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,573 | 🐛 246 | 🌐 JavaScript | 📅 2026-10-17 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,573 | 🐛 249 | 🌐 JavaScript | 📅 2026-10-23 - Express GitHub仓库
 
 ## 中文文档
 
@@ -27,27 +67,27 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,521 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,086 | 🐛 161 | 🌐 JavaScript | 📅 2026-10-22 - 官方推荐的文件上传中间件。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,520 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,088 | 🐛 163 | 🌐 JavaScript | 📅 2026-10-22 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,738 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-18 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,738 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-18 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,199 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,199 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - 先前为 logger。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,355 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-08 - 先前为 express.session。
 * [cors](https://github.com/expressjs/cors) ⭐ 6,194 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-22 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-22 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-23 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-23 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
   * [raw-body](https://github.com/stream-utils/raw-body) ⭐ 407 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-22
-  * [co-body](https://github.com/visionmedia/co-body) ⭐ 324 | 🐛 9 | 🌐 JavaScript | 📅 2024-06-05
+  * [co-body](https://github.com/visionmedia/co-body) ⭐ 324 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 120 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
-* [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,510 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
+* [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,511 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
 * [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 30 | 🌐 JavaScript | 📅 2026-10-01 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
 * [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 30 | 🌐 JavaScript | 📅 2026-10-01 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。
 * [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,032 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.cookieParser。
-* [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,421 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-06 - 用于提供静态内容的模块。
+* [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,421 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-06 - 用于提供静态内容的模块。
 * [express-http-proxy](https://github.com/villadora/express-http-proxy) ⭐ 1,249 | 🐛 146 | 🌐 JavaScript | 📅 2026-02-14 - 解决跨域问题。
 * [cookie-session](https://github.com/expressjs/cookie-session) ⭐ 1,148 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.cookieSession。
 * [vhost](https://github.com/expressjs/vhost) ⭐ 767 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-01 - 先前为 express.vhost。
@@ -69,6 +109,7 @@
 * [express-simple-cdn](https://github.com/jamiesteven/express-simple-cdn) ⚠️ Archived - Express 中间件模块，将 CDN 用于静态资产，具有多主机支持（例如:cdn1.host.com、cdn2.host.com）。
 * [static-expiry](https://github.com/paulwalker/connect-static-expiry) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-27 - 静态资产的指纹式 URL 或高速缓存头，包含对一个或多个外部域的支持。
 * [express-uncapitalize](https://github.com/jamiesteven/express-uncapitalize) ⚠️ Archived - 中间件模块，用于将包含大写字母的 HTTP 请求转换为标准的小写形式。
+* [@guardcore/express](https://github.com/Guard-Core/guard-core-ts/tree/master/packages/express) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 - 安全中间件，提供 IP 黑白名单、限流与自动封禁、渗透攻击检测。
 * [cluster](https://nodejs.org/api/cluster.html) - Nodejs应用生成多个进程，并行运行。
 
 ## 工具
@@ -126,10 +167,10 @@
 
 *Express的Demo例子搜集*
 
-* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,353 | 🐛 59 | 🌐 JavaScript | 📅 2023-04-26
-* [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo) ⭐ 5,090 | 🐛 15 | 🌐 JavaScript | 📅 2025-10-30
+* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog) ⭐ 15,355 | 🐛 59 | 🌐 JavaScript | 📅 2023-04-26
+* [一个简单的例子使用Express+mongoose+passport登录验证](https://github.com/madhums/node-express-mongoose-demo) ⭐ 5,091 | 🐛 15 | 🌐 JavaScript | 📅 2025-10-30
 * [reactjs官方例子express-react-views](https://github.com/reactjs/express-react-views) ⚠️ Archived
-* [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express) ⭐ 411 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-15
+* [个人博客系统, 基于RESTful架构,Express, MongoDB, Redis, Token Auth, 七牛云存储](https://github.com/jackhutu/jackblog-api-express) ⭐ 410 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-15
 * [使用 Nodejs (Express) 编写的团体订餐程序](https://github.com/willerce/canku) ⭐ 352 | 🐛 2 | 🌐 JavaScript | 📅 2014-03-14
 * [Express搭建微信公共账号服务](https://github.com/node-weixin/node-weixin-express) ⭐ 267 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-26
 * [简单的 Vue2 + Webpack2 + Express + 热更新工程模板](https://github.com/hilongjw/vue-express-hot-simple) ⭐ 225 | 🐛 6 | 🌐 JavaScript | 📅 2017-06-25
@@ -139,8 +180,9 @@
 * [V-Tom - 一个基于Node.js,Express,Mongodb,vue的博客](https://github.com/hstarorg/rest-express) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-11
 * [利用express简化rest api开发](https://github.com/hstarorg/rest-express) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-11
 * [前端基于webpack+vue+vux，后端基于express+lowdb](https://github.com/lianer/meal-ticket) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-12
+* [基于 Express + TypeScript + SQLite 的邮箱验证码与魔法链接免密登录示例（Mailtrap 邮件 API）](https://github.com/manishgupta412/express-email-otp-login) ⭐ 7 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-23
 * [Node + Express + VueJS 1.x 的服务端渲染实践](https://github.com/jrainlau/vue1.x-ssr-demo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
