@@ -176,7 +176,7 @@
             "open_issues": 96,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6355,
+            "stars": 6356,
             "topics": [
               "expressjs",
               "javascript",
@@ -230,7 +230,7 @@
             "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500,
+            "stars": 5499,
             "topics": [
               "body",
               "expressjs",
@@ -334,7 +334,7 @@
             "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500,
+            "stars": 5499,
             "topics": [
               "body",
               "expressjs",
@@ -549,7 +549,7 @@
             "open_issues": 18,
             "owner": "expressjs",
             "repo": "cookie-session",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "cookie",
               "expressjs",
@@ -1185,7 +1185,7 @@
             "open_issues": 59,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15355,
+            "stars": 15354,
             "topics": [
               "blog",
               "course",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:55:59.039Z",
+    "last_updated": "2026-10-25T01:34:27.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
