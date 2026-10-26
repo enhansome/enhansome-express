@@ -70,7 +70,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10738,
+            "stars": 10739,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10738,
+            "stars": 10739,
             "topics": [
               "helmet",
               "http-headers",
@@ -176,7 +176,7 @@
             "open_issues": 96,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6356,
+            "stars": 6357,
             "topics": [
               "expressjs",
               "javascript",
@@ -203,7 +203,7 @@
             "open_issues": 50,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6194,
+            "stars": 6195,
             "topics": [
               "cors",
               "expressjs",
@@ -230,7 +230,7 @@
             "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5499,
+            "stars": 5500,
             "topics": [
               "body",
               "expressjs",
@@ -334,7 +334,7 @@
             "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5499,
+            "stars": 5500,
             "topics": [
               "body",
               "expressjs",
@@ -1026,8 +1026,8 @@
             "id": 1192269209,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T10:59:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-25T19:24:40Z",
+            "open_issues": 0,
             "owner": "Guard-Core",
             "repo": "guard-core-ts",
             "stars": 1,
@@ -1215,7 +1215,7 @@
             "open_issues": 15,
             "owner": "madhums",
             "repo": "node-express-mongoose-demo",
-            "stars": 5091,
+            "stars": 5092,
             "topics": [
               "demo",
               "docker",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:34:27.341Z",
+    "last_updated": "2026-10-26T01:38:55.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
