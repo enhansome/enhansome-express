@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23520,
+            "stars": 23521,
             "topics": [
               "express",
               "nodejs",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-22T11:57:22Z",
-            "open_issues": 163,
+            "open_issues": 166,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12088,
+            "stars": 12089,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -230,7 +230,7 @@
             "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500,
+            "stars": 5501,
             "topics": [
               "body",
               "expressjs",
@@ -334,7 +334,7 @@
             "open_issues": 47,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5500,
+            "stars": 5501,
             "topics": [
               "body",
               "expressjs",
@@ -1482,48 +1482,13 @@
             ]
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
-        },
-        {
-          "node_type": "item",
-          "title": "基于 Express + TypeScript + SQLite 的邮箱验证码与魔法链接免密登录示例（Mailtrap 邮件 API）",
-          "description": "manishgupta412/express-email-otp-login",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Passwordless login for Express with email one-time codes and magic links, sent via Mailtrap Email API. TypeScript, SQLite, rate limiting.",
-            "homepage": null,
-            "id": 1418600558,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-23T13:03:23Z",
-            "open_issues": 16,
-            "owner": "manishgupta412",
-            "repo": "express-email-otp-login",
-            "stars": 7,
-            "topics": [
-              "authentication",
-              "email",
-              "email-api",
-              "email-otp",
-              "express",
-              "magic-link",
-              "mailtrap",
-              "nodejs",
-              "otp",
-              "passwordless",
-              "passwordless-login",
-              "transactional-email",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-10-24T01:55:59.039Z"
         }
       ],
       "title": "例子"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:38:55.643Z",
+    "last_updated": "2026-10-27T02:23:48.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
