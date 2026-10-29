@@ -58,7 +58,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,577 | 🐛 257 | 🌐 JavaScript | 📅 2026-10-27 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,580 | 🐛 259 | 🌐 JavaScript | 📅 2026-10-27 - Express GitHub仓库
 
 ## 中文文档
 
@@ -67,22 +67,22 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,519 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,520 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
 * [Multer](https://github.com/expressjs/multer) ⭐ 12,090 | 🐛 166 | 🌐 JavaScript | 📅 2026-10-22 - 官方推荐的文件上传中间件。
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,742 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-18 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,743 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,742 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-18 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - 先前为 logger。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,743 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,357 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-08 - 先前为 express.session。
 * [cors](https://github.com/expressjs/cors) ⭐ 6,195 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-27 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-27 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-28 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,500 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-28 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
   * [raw-body](https://github.com/stream-utils/raw-body) ⭐ 407 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-22
   * [co-body](https://github.com/visionmedia/co-body) ⭐ 324 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 120 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
-* [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,511 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
+* [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,510 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
 * [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-01 - 中间件负责压缩响应的json数据和静态文件为GZIP格式，Nginx做此类事情效率更高。
 * [compression](https://github.com/expressjs/compression) ⭐ 2,806 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-01 - 压缩和处理静态内容。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived - 先前为 express.csrf。
@@ -185,4 +185,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
