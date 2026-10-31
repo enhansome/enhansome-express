@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23520,
+            "stars": 23519,
             "topics": [
               "express",
               "nodejs",
@@ -70,7 +70,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10741,
+            "stars": 10743,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 5,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10741,
+            "stars": 10743,
             "topics": [
               "helmet",
               "http-headers",
@@ -124,7 +124,7 @@
             "open_issues": 24,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8201,
+            "stars": 8202,
             "topics": [
               "express",
               "javascript",
@@ -150,7 +150,7 @@
             "open_issues": 24,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8201,
+            "stars": 8202,
             "topics": [
               "express",
               "javascript",
@@ -227,7 +227,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-28T08:05:40Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5499,
@@ -331,7 +331,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-28T08:05:40Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5499,
@@ -1488,7 +1488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:53:37.868Z",
+    "last_updated": "2026-10-31T02:41:24.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
