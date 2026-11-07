@@ -58,7 +58,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,579 | 🐛 261 | 🌐 JavaScript | 📅 2026-11-02 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,576 | 🐛 260 | 🌐 JavaScript | 📅 2026-11-02 - Express GitHub仓库
 
 ## 中文文档
 
@@ -67,7 +67,7 @@
 
 ## 中间件
 
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,521 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,522 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
 * [Multer](https://github.com/expressjs/multer) ⭐ 12,084 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-01 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,746 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
@@ -89,7 +89,7 @@
 * [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,033 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03 - 先前为 express.cookieParser。
 * [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,422 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-27 - 用于提供静态内容的模块。
 * [express-http-proxy](https://github.com/villadora/express-http-proxy) ⭐ 1,249 | 🐛 146 | 🌐 JavaScript | 📅 2026-02-14 - 解决跨域问题。
-* [cookie-session](https://github.com/expressjs/cookie-session) ⭐ 1,150 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.cookieSession。
+* [cookie-session](https://github.com/expressjs/cookie-session) ⭐ 1,150 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-05 - 先前为 express.cookieSession。
 * [vhost](https://github.com/expressjs/vhost) ⭐ 767 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-01 - 先前为 express.vhost。
 * [serve-favicon](https://github.com/expressjs/serve-favicon) ⭐ 628 | 🐛 8 | 🌐 JavaScript | 📅 2026-02-01 - 先前为 express.favicon。
 * [method-override](https://github.com/expressjs/method-override) ⭐ 627 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-01 - 先前为 express.methodOverride。
@@ -186,4 +186,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

@@ -19,7 +19,7 @@
             "open_issues": 397,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23521,
+            "stars": 23522,
             "topics": [
               "express",
               "nodejs",
@@ -546,7 +546,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-05T13:59:19Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "expressjs",
             "repo": "cookie-session",
             "stars": 1150,
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:38:14.481Z",
+    "last_updated": "2026-11-07T03:10:32.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
