@@ -58,7 +58,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,576 | 🐛 260 | 🌐 JavaScript | 📅 2026-11-02 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,577 | 🐛 260 | 🌐 JavaScript | 📅 2026-11-02 - Express GitHub仓库
 
 ## 中文文档
 
@@ -68,7 +68,7 @@
 ## 中间件
 
 * [passport](https://github.com/jaredhanson/passport) ⭐ 23,522 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,084 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-01 - 官方推荐的文件上传中间件。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,085 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-01 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,746 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,746 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
@@ -79,7 +79,7 @@
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,501 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-01 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,501 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-01 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
-  * [raw-body](https://github.com/stream-utils/raw-body) ⭐ 406 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-22
+  * [raw-body](https://github.com/stream-utils/raw-body) ⭐ 406 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-08
   * [co-body](https://github.com/visionmedia/co-body) ⭐ 324 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-05
   * [body](https://github.com/raynos/body) ⭐ 120 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-27
 * [express-jwt](https://github.com/auth0/express-jwt) ⭐ 4,510 | 🐛 64 | 🌐 TypeScript | 📅 2026-06-25 - 产生唯一的基于用户信息.令牌
@@ -186,4 +186,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
