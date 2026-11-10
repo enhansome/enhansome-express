@@ -19,7 +19,7 @@
             "open_issues": 397,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23523,
+            "stars": 23522,
             "topics": [
               "express",
               "nodejs",
@@ -203,7 +203,7 @@
             "open_issues": 52,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6193,
+            "stars": 6194,
             "topics": [
               "cors",
               "expressjs",
@@ -227,7 +227,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T23:05:59Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5502,
@@ -265,7 +265,7 @@
                 "open_issues": 12,
                 "owner": "stream-utils",
                 "repo": "raw-body",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "body",
                   "bun",
@@ -331,7 +331,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T23:05:59Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "expressjs",
             "repo": "body-parser",
             "stars": 5502,
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4510,
+            "stars": 4511,
             "topics": [
               "express-jwt",
               "jwt"
@@ -388,7 +388,7 @@
             "open_issues": 31,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2807,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -417,7 +417,7 @@
             "open_issues": 31,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2807,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -1026,8 +1026,8 @@
             "id": 1192269209,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T02:11:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-09T04:09:20Z",
+            "open_issues": 2,
             "owner": "Guard-Core",
             "repo": "guard-core-ts",
             "stars": 1,
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:56:44.685Z",
+    "last_updated": "2026-11-10T04:46:21.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
