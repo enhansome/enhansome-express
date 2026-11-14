@@ -58,7 +58,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,675 | 🐛 262 | 🌐 JavaScript | 📅 2026-11-02 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,673 | 🐛 262 | 🌐 JavaScript | 📅 2026-11-02 - Express GitHub仓库
 
 ## 中文文档
 
@@ -69,11 +69,11 @@
 
 * [passport](https://github.com/jaredhanson/passport) ⭐ 23,520 | 🐛 397 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
 * [Multer](https://github.com/expressjs/multer) ⭐ 12,085 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-01 - 官方推荐的文件上传中间件。
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,749 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,748 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
-* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,749 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,204 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 - HTTP请求日志中间件。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,204 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 - 先前为 logger。
+* [helmet](https://github.com/helmetjs/helmet) ⭐ 10,748 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,203 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 - HTTP请求日志中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,203 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,358 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-08 - 先前为 express.session。
 * [cors](https://github.com/expressjs/cors) ⭐ 6,196 | 🐛 52 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
@@ -109,7 +109,7 @@
 * [express-simple-cdn](https://github.com/jamiesteven/express-simple-cdn) ⚠️ Archived - Express 中间件模块，将 CDN 用于静态资产，具有多主机支持（例如:cdn1.host.com、cdn2.host.com）。
 * [static-expiry](https://github.com/paulwalker/connect-static-expiry) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2018-05-27 - 静态资产的指纹式 URL 或高速缓存头，包含对一个或多个外部域的支持。
 * [express-uncapitalize](https://github.com/jamiesteven/express-uncapitalize) ⚠️ Archived - 中间件模块，用于将包含大写字母的 HTTP 请求转换为标准的小写形式。
-* [@guardcore/express](https://github.com/Guard-Core/guard-core-ts/tree/master/packages/express) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-11 - 安全中间件，提供 IP 黑白名单、限流与自动封禁、渗透攻击检测。
+* [@guardcore/express](https://github.com/Guard-Core/guard-core-ts/tree/master/packages/express) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-14 - 安全中间件，提供 IP 黑白名单、限流与自动封禁、渗透攻击检测。
 * [cluster](https://nodejs.org/api/cluster.html) - Nodejs应用生成多个进程，并行运行。
 * [@openreceive/express](https://openreceive.org/integrations/express) - 开源（MIT）收款中间件：在自己的 Express 应用中接收比特币闪电网络付款，直接到账自己的钱包（NWC）；客户也可用 USDT、USDC 支付，仍以比特币到账。
 
@@ -134,7 +134,7 @@
 * [使用 Express 和 waterline 创建简单 Restful API](https://segmentfault.com/a/1190000004996659)
 * [构建 Express Api 五个有用的中间件](https://fe.ele.me/gou-jian-express-api-wu-ge-you-yong-de-zhong-jian-jian/)
 * [10个Node.js开发者最易犯的错误](https://zhuanlan.zhihu.com/p/19944110)
-* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,862 | 🐛 10 | 🌐 Ruby | 📅 2023-08-22
+* [chyingp - Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,861 | 🐛 10 | 🌐 Ruby | 📅 2023-08-22
 * [Express结合Passport实现登陆认证](http://blog.fens.me/nodejs-express-passport/)
 * [Passport现实社交网络OAuth登陆](http://blog.fens.me/nodejs-oauth-passport/)
 * [webpack+vue+vux+express+lowdb实践](https://segmentfault.com/a/1190000006998791)
@@ -187,4 +187,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
