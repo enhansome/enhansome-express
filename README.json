@@ -19,7 +19,7 @@
             "open_issues": 397,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23520,
+            "stars": 23518,
             "topics": [
               "express",
               "nodejs",
@@ -49,7 +49,7 @@
             "open_issues": 175,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12085,
+            "stars": 12086,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -70,7 +70,7 @@
             "open_issues": 4,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10748,
+            "stars": 10749,
             "topics": [
               "helmet",
               "http-headers",
@@ -97,7 +97,7 @@
             "open_issues": 4,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10748,
+            "stars": 10749,
             "topics": [
               "helmet",
               "http-headers",
@@ -121,7 +121,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T09:36:19Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8203,
@@ -147,7 +147,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T09:36:19Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "expressjs",
             "repo": "morgan",
             "stars": 8203,
@@ -590,6 +590,33 @@
         },
         {
           "node_type": "item",
+          "title": "method-override",
+          "description": "先前为 express.methodOverride。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Override HTTP verbs.",
+            "homepage": null,
+            "id": 17359182,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-14T11:47:30Z",
+            "open_issues": 9,
+            "owner": "expressjs",
+            "repo": "method-override",
+            "stars": 628,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "method-override",
+              "middleware",
+              "nodejs"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:52.758Z"
+        },
+        {
+          "node_type": "item",
           "title": "serve-favicon",
           "description": "先前为 express.favicon。",
           "children": [],
@@ -604,38 +631,11 @@
             "open_issues": 8,
             "owner": "expressjs",
             "repo": "serve-favicon",
-            "stars": 629,
+            "stars": 628,
             "topics": [
               "expressjs",
               "favicon",
               "javascript",
-              "middleware",
-              "nodejs"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:52.758Z"
-        },
-        {
-          "node_type": "item",
-          "title": "method-override",
-          "description": "先前为 express.methodOverride。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Override HTTP verbs.",
-            "homepage": null,
-            "id": 17359182,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-03-01T11:27:08Z",
-            "open_issues": 12,
-            "owner": "expressjs",
-            "repo": "method-override",
-            "stars": 628,
-            "topics": [
-              "expressjs",
-              "javascript",
-              "method-override",
               "middleware",
               "nodejs"
             ]
@@ -856,7 +856,7 @@
             "open_issues": 13,
             "owner": "hdngr",
             "repo": "sriracha",
-            "stars": 150,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1026,8 +1026,8 @@
             "id": 1192269209,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T02:16:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-14T05:27:24Z",
+            "open_issues": 0,
             "owner": "Guard-Core",
             "repo": "guard-core-ts",
             "stars": 1,
@@ -1086,7 +1086,7 @@
             "open_issues": 79,
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1851,
+            "stars": 1850,
             "topics": [
               "express",
               "generator",
@@ -1185,7 +1185,7 @@
             "open_issues": 60,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15352,
+            "stars": 15350,
             "topics": [
               "blog",
               "course",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:31:30.759Z",
+    "last_updated": "2026-11-15T03:01:49.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
