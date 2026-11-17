@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-08-16T21:56:14Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
             "stars": 23517,
@@ -49,7 +49,7 @@
             "open_issues": 175,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12086,
+            "stars": 12085,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -173,7 +173,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T11:51:08Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "expressjs",
             "repo": "session",
             "stars": 6358,
@@ -203,7 +203,7 @@
             "open_issues": 52,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6196,
+            "stars": 6197,
             "topics": [
               "cors",
               "expressjs",
@@ -364,7 +364,7 @@
             "open_issues": 64,
             "owner": "auth0",
             "repo": "express-jwt",
-            "stars": 4511,
+            "stars": 4512,
             "topics": [
               "express-jwt",
               "jwt"
@@ -1215,7 +1215,7 @@
             "open_issues": 15,
             "owner": "madhums",
             "repo": "node-express-mongoose-demo",
-            "stars": 5091,
+            "stars": 5092,
             "topics": [
               "demo",
               "docker",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T03:03:27.448Z",
+    "last_updated": "2026-11-17T05:13:21.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
