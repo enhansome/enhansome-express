@@ -58,7 +58,7 @@
 ## 官方网站
 
 * [Official website](http://expressjs.com) - Express官方网站
-* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,670 | 🐛 262 | 🌐 JavaScript | 📅 2026-11-19 - Express GitHub仓库
+* [GitHub repository](https://github.com/expressjs/express) ⭐ 69,672 | 🐛 262 | 🌐 JavaScript | 📅 2026-11-19 - Express GitHub仓库
 
 ## 中文文档
 
@@ -68,14 +68,14 @@
 ## 中间件
 
 * [passport](https://github.com/jaredhanson/passport) ⭐ 23,518 | 🐛 398 | 🌐 JavaScript | 📅 2024-08-16 - 用于认证的 Express 中间件模块。
-* [Multer](https://github.com/expressjs/multer) ⭐ 12,087 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-01 - 官方推荐的文件上传中间件。
+* [Multer](https://github.com/expressjs/multer) ⭐ 12,088 | 🐛 175 | 🌐 JavaScript | 📅 2026-11-01 - 官方推荐的文件上传中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,749 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - 最大程度的确保我们 API 的安全性，应用程序应对多种类型的攻击。
   部分 Express 中间件组件：
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,749 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - 一个模块，用于通过设置各种 HTTP 头来帮助保护应用程序。
 * [morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01 - HTTP请求日志中间件。
 * [morgan](https://github.com/expressjs/morgan) ⭐ 8,200 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01 - 先前为 logger。
 * [express-session](https://github.com/expressjs/session) ⭐ 6,357 | 🐛 103 | 🌐 JavaScript | 📅 2026-10-08 - 先前为 express.session。
-* [cors](https://github.com/expressjs/cors) ⭐ 6,196 | 🐛 53 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
+* [cors](https://github.com/expressjs/cors) ⭐ 6,197 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-02 - 跨域资源共享。
   * [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,501 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-15 - 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 * [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,501 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-15 - 中间件用来解析http请求体，先前为 express.bodyParser、json 和 urlencoded。另请参阅：
@@ -187,4 +187,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
