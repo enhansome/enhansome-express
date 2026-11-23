@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23518,
+            "stars": 23519,
             "topics": [
               "express",
               "nodejs",
@@ -46,10 +46,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T15:17:21Z",
-            "open_issues": 175,
+            "open_issues": 174,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12088,
+            "stars": 12089,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -124,7 +124,7 @@
             "open_issues": 27,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8200,
+            "stars": 8201,
             "topics": [
               "express",
               "javascript",
@@ -150,7 +150,7 @@
             "open_issues": 27,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8200,
+            "stars": 8201,
             "topics": [
               "express",
               "javascript",
@@ -203,7 +203,7 @@
             "open_issues": 54,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6197,
+            "stars": 6198,
             "topics": [
               "cors",
               "expressjs",
@@ -230,7 +230,7 @@
             "open_issues": 52,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5501,
+            "stars": 5502,
             "topics": [
               "body",
               "expressjs",
@@ -334,7 +334,7 @@
             "open_issues": 52,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5501,
+            "stars": 5502,
             "topics": [
               "body",
               "expressjs",
@@ -388,7 +388,7 @@
             "open_issues": 31,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2804,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -417,7 +417,7 @@
             "open_issues": 31,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2804,
+            "stars": 2805,
             "topics": [
               "compression",
               "deflate",
@@ -1026,8 +1026,8 @@
             "id": 1192269209,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T22:41:49Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T02:09:58Z",
+            "open_issues": 3,
             "owner": "Guard-Core",
             "repo": "guard-core-ts",
             "stars": 1,
@@ -1185,7 +1185,7 @@
             "open_issues": 60,
             "owner": "nswbmw",
             "repo": "N-blog",
-            "stars": 15350,
+            "stars": 15349,
             "topics": [
               "blog",
               "course",
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:32:08.837Z",
+    "last_updated": "2026-11-23T03:58:25.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
