@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-08-16T21:56:14Z",
-            "open_issues": 398,
+            "open_issues": 399,
             "owner": "jaredhanson",
             "repo": "passport",
             "stars": 23515,
@@ -203,7 +203,7 @@
             "open_issues": 54,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6197,
+            "stars": 6198,
             "topics": [
               "cors",
               "expressjs",
@@ -265,7 +265,7 @@
                 "open_issues": 12,
                 "owner": "stream-utils",
                 "repo": "raw-body",
-                "stars": 406,
+                "stars": 405,
                 "topics": [
                   "body",
                   "bun",
@@ -388,7 +388,7 @@
             "open_issues": 31,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2806,
+            "stars": 2808,
             "topics": [
               "compression",
               "deflate",
@@ -417,7 +417,7 @@
             "open_issues": 31,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2806,
+            "stars": 2808,
             "topics": [
               "compression",
               "deflate",
@@ -681,7 +681,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-05T14:00:57Z",
-            "open_issues": 41,
+            "open_issues": 43,
             "owner": "expressjs",
             "repo": "serve-index",
             "stars": 449,
@@ -1065,7 +1065,7 @@
             "open_issues": 123,
             "owner": "EyalAr",
             "repo": "lwip",
-            "stars": 2353,
+            "stars": 2352,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1086,7 +1086,7 @@
             "open_issues": 79,
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1849,
+            "stars": 1848,
             "topics": [
               "express",
               "generator",
@@ -1245,7 +1245,7 @@
             "open_issues": 27,
             "owner": "reactjs",
             "repo": "express-react-views",
-            "stars": 2707,
+            "stars": 2705,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:52.758Z"
@@ -1522,7 +1522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:24:47.907Z",
+    "last_updated": "2026-11-27T05:19:30.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个仓库主要是收集 Express 好用的中间件、新闻资讯、网站等，这是我在基于Express开发web应用过程中搜集到的一些插件和看到的一些好的内容。",
@@ -1530,7 +1530,7 @@
       "id": 71524240,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-12T01:16:20Z",
+      "last_commit": "2026-11-26T19:55:20Z",
       "open_issues": 0,
       "owner": "wabg",
       "repo": "awesome-express",
@@ -1543,7 +1543,7 @@
         "expressjs"
       ]
     },
-    "original_repository_sha": "929d3c984bdc4d079bd5422beb3941d04739d82c",
+    "original_repository_sha": "d81824cd916e812fe2c9cba678e81623accfe85f",
     "enhanced_repository": "enhansome/enhansome-express",
     "enhanced_repository_description": null,
     "title": "Awesome Express with stars"
